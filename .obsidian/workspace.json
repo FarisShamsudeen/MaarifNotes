@@ -25,16 +25,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlQuran.md",
+                "file": "Arabiy.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlQuran"
+              "title": "Arabiy"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -66,7 +65,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "CoursePDFs/Adaab",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -196,8 +195,8 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "github-sync:Sync with Remote": false,
-      "google-drive-sync:Push to Google Drive": false,
+      "webpage-html-export:Export as HTML": false,
+      "google-drive-sync:Push to Google Drive": true,
       "pexels-banner:🚩 Pixel Banner Menu": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
@@ -205,14 +204,25 @@
       "templates:Insert template": true,
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
-      "bases:Create new base": true
+      "bases:Create new base": true,
+      "github-gitless-sync:Open sync conflicts view": false,
+      "github-gitless-sync:Sync with GitHub": false
     }
   },
   "active": "205215e183d13070",
   "lastOpenFiles": [
+    "Arabiy.md",
+    "Ahadeeth.md",
+    "CoursePDFs/Quran004.pdf",
+    "2.pdf.md",
+    "Aqeedah.md",
+    "AnNaseeha.md",
+    "AlQuran.md",
+    "AlFiqh.md",
+    "Adhkaar.md",
+    "Aadaab.md",
     "CoursePDFs/standardize_pdfs.sh",
     "CoursePDFs/Quran005.pdf",
-    "CoursePDFs/Quran004.pdf",
     "CoursePDFs/Quran003.pdf",
     "CoursePDFs/Quran002.pdf",
     "CoursePDFs/Quran001.pdf",
@@ -220,15 +230,6 @@
     "CoursePDFs/Lugah002.pdf",
     "CoursePDFs/Lugah001.pdf",
     "CoursePDFs/HadeethHifd005.pdf",
-    "CoursePDFs/HadeethHifd004.pdf",
-    "AnNaseeha.md",
-    "Adhkaar.md",
-    "Ahadeeth.md",
-    "AlFiqh.md",
-    "AlQuran.md",
-    "Arabiy.md",
-    "Aqeedah.md",
-    "Aadaab.md",
     "Maarif/CoursePDFs/Adaab1.pdf.md",
     "Maarif/Arabiy.md",
     "Maarif/AnNaseeha.md",
@@ -245,7 +246,6 @@
     "Maarif/CoursePDFs/HadeethHifd1.md",
     "Maarif/CoursePDFs/Fiqh1.md",
     "Maarif/CoursePDFs/Quran1.md",
-    "Maarif/CoursePDFs/Adkaar1.md",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
     "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",

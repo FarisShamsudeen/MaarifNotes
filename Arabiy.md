@@ -13,7 +13,7 @@ icon: العَرَبِيَة 💬
 		3. فعل الامر
 	## 3. الحرف
 
-![Lugah1](CoursePDFs/Lugah1.pdf)
+![Lugah1](CoursePDFs/Lugah001.pdf)
 
 # 19.04.2026
 
@@ -33,7 +33,7 @@ icon: العَرَبِيَة 💬
 2. المثنى - اسمان - قلمان
 3. الجمع - اسماء - اقلام
 
-![Lugah2](CoursePDFs/Lugah2.pdf)
+![Lugah2](CoursePDFs/Lugah002.pdf)
 
 # 26.04.2026
 
@@ -62,4 +62,4 @@ icon: العَرَبِيَة 💬
 - كتبتن
 ### فعَلْتُ فَعَلْنا
 
-![Lugah3](CoursePDFs/Lugah3.pdf)
+![Lugah3](CoursePDFs/Lugah003.pdf)

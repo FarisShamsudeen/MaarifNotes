@@ -1,0 +1,2 @@
+{"timestamp":"2026-05-12T12:03:19.041Z","level":"INFO","message":"Starting first sync"}
+{"timestamp":"2026-05-12T12:03:19.734Z","level":"ERROR","message":"Both remote and local have files, can't sync"}
