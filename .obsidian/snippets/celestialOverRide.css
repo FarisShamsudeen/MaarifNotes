@@ -1,0 +1,63 @@
+/* ==========================================================
+   1. ARABIC FONT IMPORT & APPLICATION (ZAIN)
+   ========================================================== */
+@import url('https://fonts.googleapis.com/css2?family=Anek+Malayalam:wght@100..800&family=Zain:ital,wght@0,200;0,300;0,400;0,700;0,800;0,900;1,300;1,400&display=swap');
+
+body {
+  /* Zain for Arabic, Anek Malayalam for Malayalam, then system fallbacks */
+  --font-text: 'Zain', 'Anek Malayalam', var(--font-default);
+  --font-editor: 'Zain', 'Anek Malayalam', var(--font-default);
+  --font-interface: 'Zain', 'Anek Malayalam', var(--font-default);
+}
+
+/* ==========================================================
+   2. CUSTOM TEXT FORMATS (Read & Edit Modes)
+   Overrides Celestial Night's default formatting
+   ========================================================== */
+
+/* --- BOLD --- */
+.markdown-rendered strong, 
+.cm-strong {
+  color: #87ceeb !important;
+  background-color: transparent !important; 
+  font-weight: 900 !important;
+  border-radius: 25px !important; 
+  padding: 2px 6px !important;
+  text-shadow: 0px 0px 10px #87ceeb !important;
+}
+
+/* --- HIGHLIGHT --- */
+.markdown-rendered mark, 
+.cm-highlight {
+  background-color: transparent !important; 
+  color: #ffff00 !important; 
+  padding: 2px 6px !important;
+  border-radius: 25px !important; 
+  font-weight: 900 !important;
+  text-shadow: 0px 0px 10px #ffff00 !important;
+}
+
+/* --- ITALIC (EMPHASIS) --- */
+.markdown-rendered em,
+.cm-em {
+  color: lightgreen !important;
+  background-color: transparent !important;
+  padding: 2px 6px !important;
+  border-radius: 25px !important;
+  font-weight: 900 !important;
+  text-shadow: 0px 0px 10px lightgreen !important;
+  font-style: normal !important; /* removes the slant */
+}
+
+/* --- STRIKETHROUGH --- */
+.markdown-rendered s,
+.markdown-rendered del,
+.cm-strikethrough {
+  color: #ffffff !important;
+  font-weight: 900 !important;
+  text-decoration: none !important; /* removes the strike line */
+  text-shadow: 0px 0px 10px #ffffff !important;
+  background-color: transparent !important;
+  padding: 2px 6px !important;
+  border-radius: 25px !important;
+}
