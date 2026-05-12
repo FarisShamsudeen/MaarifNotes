@@ -1,4 +1,5 @@
 {
   "theme": "obsidian",
-  "cssTheme": "Celestial Night"
+  "cssTheme": "Celestial Night",
+  "showRibbon": false
 }
