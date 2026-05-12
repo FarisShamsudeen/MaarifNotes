@@ -1,13 +1,4 @@
 {
-  "cssTheme": "Celestial Night",
   "theme": "obsidian",
-  "interfaceFontFamily": "",
-  "baseFontSizeAction": true,
-  "baseFontSize": 20,
-  "showRibbon": true,
-  "enabledCssSnippets": [
-    "Neon Dark",
-    "custom-vortex-dark",
-    "celestialOverRide"
-  ]
+  "cssTheme": "Celestial Night"
 }

@@ -1,2 +1,10 @@
 {"timestamp":"2026-05-12T12:03:19.041Z","level":"INFO","message":"Starting first sync"}
 {"timestamp":"2026-05-12T12:03:19.734Z","level":"ERROR","message":"Both remote and local have files, can't sync"}
+{"timestamp":"2026-05-12T12:10:10.134Z","level":"INFO","message":"Starting first sync"}
+{"timestamp":"2026-05-12T12:10:10.798Z","level":"ERROR","message":"Both remote and local have files, can't sync"}
+{"timestamp":"2026-05-12T12:11:53.601Z","level":"INFO","message":"Received modify event","additional_data":"Ahadeeth.md"}
+{"timestamp":"2026-05-12T12:11:53.608Z","level":"INFO","message":"Updated just downloaded modified file","additional_data":"Ahadeeth.md"}
+{"timestamp":"2026-05-12T12:13:03.147Z","level":"INFO","message":"Starting first sync"}
+{"timestamp":"2026-05-12T12:13:03.910Z","level":"ERROR","message":"Both remote and local have files, can't sync"}
+{"timestamp":"2026-05-12T12:13:40.043Z","level":"INFO","message":"Received modify event","additional_data":"Aadaab.md"}
+{"timestamp":"2026-05-12T12:13:40.058Z","level":"INFO","message":"Updated just downloaded modified file","additional_data":"Aadaab.md"}
