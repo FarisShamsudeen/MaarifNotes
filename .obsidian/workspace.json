@@ -93,8 +93,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -212,7 +211,6 @@
   "left-ribbon": {
     "hiddenItems": {
       "webpage-html-export:Export as HTML": false,
-      "google-drive-sync:Push to Google Drive": true,
       "pexels-banner:🚩 Pixel Banner Menu": true,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
@@ -221,8 +219,6 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
-      "github-gitless-sync:Open sync conflicts view": false,
-      "github-gitless-sync:Sync with GitHub": false,
       "obsidian-git:Open Git source control": false
     }
   },
