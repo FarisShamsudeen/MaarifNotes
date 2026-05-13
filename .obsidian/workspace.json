@@ -11,14 +11,14 @@
             "id": "911a041152b7b8d1",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "Aqeedah.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "Aqeedah"
             }
           }
         ]
@@ -120,6 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Aqeedah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -129,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks"
+              "title": "Backlinks for Aqeedah"
             }
           },
           {
@@ -138,11 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Aqeedah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links"
+              "title": "Outgoing links from Aqeedah"
             }
           },
           {
@@ -165,12 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "Aqeedah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline"
+              "title": "Outline of Aqeedah"
             }
           },
           {
@@ -178,9 +181,11 @@
             "type": "leaf",
             "state": {
               "type": "file-properties",
-              "state": {},
+              "state": {
+                "file": "Aqeedah.md"
+              },
               "icon": "lucide-info",
-              "title": "File properties"
+              "title": "File properties for Aqeedah"
             }
           }
         ],
@@ -201,7 +206,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "911a041152b7b8d1",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
     "Aqeedah.md",
     "AlQuran.md",
