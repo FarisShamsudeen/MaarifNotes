@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Ahadeeth.md",
+                "file": "AlQuran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Ahadeeth"
+              "title": "AlQuran"
             }
           }
         ]
@@ -69,8 +69,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 250.5,
-    "collapsed": true
+    "width": 250.5
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -104,12 +103,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Brototype/Intake 2 Notes/Javascript.md",
+                "file": "AlQuran.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Javascript"
+              "title": "Outgoing links from AlQuran"
             }
           },
           {
@@ -147,13 +146,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adhkaar.md",
+                "file": "AlQuran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adhkaar"
+              "title": "Outline of AlQuran"
             }
           },
           {
@@ -162,10 +161,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Adhkaar.md"
+                "file": "AlQuran.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Adhkaar"
+              "title": "File properties for AlQuran"
             }
           },
           {
@@ -191,14 +190,17 @@
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "templates:Insert template": false
     }
   },
   "active": "911a041152b7b8d1",
   "lastOpenFiles": [
-    "Ahadeeth.md",
-    "Adhkaar.md",
     "Arabiy.md",
+    "Ahadeeth.md",
+    "Templates/Add Tags.md",
+    "Templates",
+    "Adhkaar.md",
     "Aqeedah.md",
     "AnNaseeha.md",
     "AlQuran.md",
@@ -211,9 +213,8 @@
     "CoursePDFs/Quran002.pdf",
     "CoursePDFs/Quran001.pdf",
     "CoursePDFs/Lugah005.pdf",
-    "CoursePDFs/Lugah002.pdf",
     "CoursePDFs/Lugah003.pdf",
-    "CoursePDFs/Lugah001.pdf",
+    "CoursePDFs/Lugah004.pdf",
     "2.pdf.md",
     "Maarif/CoursePDFs/Adaab1.pdf.md",
     "Maarif/Arabiy.md",

@@ -35,3 +35,12 @@
 	- അല്ലെങ്കിൽ കുറ്റം കിട്ടുന്ന കാര്യം 
 
 ![HadeethHifd4](CoursePDFs/HadeethHifd004.pdf)
+
+# 02.05.2026
+
+>[!example] Tags
+>
+> #Tawhid #PillarsOfIslam #Prayer #Zakath #Hajj #Fasting #Ramadan
+
+
+![[HadeethHifd005.pdf]]

@@ -147,3 +147,15 @@
 	- قال النبي صلى الله عليه وسلم **قال الله عز وجل انا الملك اين ملوك الارض اين الجبارون والمتكبرون**
 
 ![Quran4](CoursePDFs/Quran004.pdf)
+
+# 02.05.2026
+
+![[Quran005.pdf]]
+
+# 09.05.2026
+
+>[!example] Tags
+> 
+> #Dua #Surah/Al-Fathiha #Aqeedah/Salafi 
+
+- 

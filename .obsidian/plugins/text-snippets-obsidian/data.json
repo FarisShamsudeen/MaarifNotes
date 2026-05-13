@@ -1,0 +1,26 @@
+{
+  "snippets_file": "allah : Allah ﷻ \nhafi : حَفِظَهُ اللَّه \nrahi : رَحِمَهُ ٱللَّٰهُ \t\nradhi : رَضِيَ اللّٰهُ عَنْهَا \nradh : رَضِيَ اللّٰهُ عَنْهُ \nalaih : عَلَيْهِ السَّلام \nlaan : لَعْنَةُ اللَّهِ عَلَيْهِ \nHad : هَدَاهُ اللّٰه \nwafa : وَفَقَهُ اللّٰه \t\nsalla : ﷺ \nAllah : Allah ﷻ \njal : ﷻ \nbism : ﷽ ",
+  "snippets": [
+    "allah : Allah ﷻ ",
+    "hafi : حَفِظَهُ اللَّه ",
+    "rahi : رَحِمَهُ ٱللَّٰهُ \t",
+    "radhi : رَضِيَ اللّٰهُ عَنْهَا ",
+    "radh : رَضِيَ اللّٰهُ عَنْهُ ",
+    "alaih : عَلَيْهِ السَّلام ",
+    "laan : لَعْنَةُ اللَّهِ عَلَيْهِ ",
+    "Had : هَدَاهُ اللّٰه ",
+    "wafa : وَفَقَهُ اللّٰه \t",
+    "salla : ﷺ ",
+    "Allah : Allah ﷻ ",
+    "jal : ﷻ ",
+    "bism : ﷽ "
+  ],
+  "endSymbol": " ",
+  "newlineSymbol": "\\n",
+  "stopSymbol": "$tb$",
+  "pasteSymbol": "$pst$",
+  "useTab": false,
+  "useSpace": true,
+  "wordDelimiters": "$()[]{}<>,.!?;:'\"\\/",
+  "isWYSIWYG": true
+}
