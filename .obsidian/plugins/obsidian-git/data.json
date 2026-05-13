@@ -17,10 +17,10 @@
   "showStatusBar": true,
   "updateSubmodules": false,
   "syncMethod": "merge",
-  "mergeStrategy": "theirs",
+  "mergeStrategy": "none",
   "customMessageOnAutoBackup": false,
   "autoBackupAfterFileChange": true,
-  "treeStructure": false,
+  "treeStructure": true,
   "refreshSourceControl": true,
   "basePath": "",
   "differentIntervalCommitAndPush": true,
@@ -41,7 +41,7 @@
     "statusBar": "disabled"
   },
   "lineAuthor": {
-    "show": true,
+    "show": false,
     "followMovement": "inactive",
     "authorDisplay": "initials",
     "showCommitHash": false,
