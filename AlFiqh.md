@@ -1,8 +1,3 @@
----
-banner: https://wallpaperaccess.com/full/2601117.jpg
-icon: اَلْفِقْهُ ⚖️
-icon-x: 50
----
 # 05.04.2026
 
 ## الطهاره

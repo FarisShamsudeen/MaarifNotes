@@ -1,9 +1,3 @@
----
-banner: https://images.alphacoders.com/568/thumb-1920-568856.jpg
-banner-x: 58
-banner-y: 1
-icon: اَلْأَذْكَارُ 🤲
----
 # 05.04.2026
 ## درجات الاذكار
 
@@ -74,10 +68,10 @@ icon: اَلْأَذْكَارُ 🤲
 ![Adkaar4](CoursePDFs/Adkaar004.pdf)
 
 # 02.05.2026
-
+> [!example] Tags
+#ProphetsLoveForAbuHurairah #AbuHurairah #Tawhid #LuckiestPerson #Hadeeth #YawmulQiyaamah #Ikhlas #Heart 
 - افضل الذكر ~~لا اله الا الله~~
 - عَنْ أَبِي هُرَيْرَةَ، أَنَّهُ قَالَ قِيلَ يَا رَسُولَ اللَّهِ، مَنْ أَسْعَدُ النَّاسِ بِشَفَاعَتِكَ يَوْمَ الْقِيَامَةِ قَالَ رَسُولُ اللَّهِ صلى الله عليه وسلم ‏"‏ لَقَدْ ظَنَنْتُ يَا أَبَا هُرَيْرَةَ أَنْ لاَ يَسْأَلَنِي عَنْ هَذَا الْحَدِيثِ أَحَدٌ أَوَّلُ مِنْكَ، لِمَا رَأَيْتُ مِنْ حِرْصِكَ عَلَى الْحَدِيثِ، **أَسْعَدُ النَّاسِ بِشَفَاعَتِي يَوْمَ الْقِيَامَةِ مَنْ قَالَ لاَ إِلَهَ إِلاَّ اللَّهُ، خَالِصًا مِنْ قَلْبِهِ أَوْ نَفْسِهِ** ‏.
-> [!examples] Tags
-#ProphetsLoveForAbuHurairah #AbuHurairah #Tawhid #LuckiestPerson #Hadeeth #YawmulQiyaamah #Ikhlas #Heart 
+
 
 ![[Adkaar005.pdf]]

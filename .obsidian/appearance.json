@@ -1,5 +1,9 @@
 {
   "theme": "obsidian",
   "cssTheme": "Celestial Night",
-  "showRibbon": true
+  "showRibbon": true,
+  "enabledCssSnippets": [
+    "celestialOverRide"
+  ],
+  "nativeMenus": false
 }

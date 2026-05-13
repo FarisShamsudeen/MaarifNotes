@@ -1,11 +1,3 @@
----
-banner: https://images.unsplash.com/photo-1511300636408-a63a89df3482?fm=jpg&q=60&w=3000&auto=format&fit=crop&ixlib=rb-4.1.0&ixid=M3wxMjA3fDB8MHxzZWFyY2h8NHx8NGslMjBoZCUyMHdhbGxwYXBlcnxlbnwwfHwwfHx8MA%3D%3D
-icon: اَلْأَحَادِيثُ 📖
-icon-x: 51
-icon-font-weight: bold
-content-start: 226
-icon-y: 0
----
 # 05.04.2026
 
 ## عن ابي هريره رضي الله عنه ان رسول الله صلى الله عليه وسلم قال كلمتان خفيفه عليه على اللسان ثقيلتان في الميزان حبيبتان الى الرحمن سبحان الله وبحمده سبحان الله العظيم.

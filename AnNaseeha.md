@@ -1,8 +1,3 @@
----
-banner: https://wallpaperaccess.com/full/156340.jpg
-icon: اَلنَّصِيحَةُ 👋
-icon-x: 50
----
 ## 05.04.2026
 
 ##  طلب العلم 

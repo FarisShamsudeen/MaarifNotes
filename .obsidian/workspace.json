@@ -50,19 +50,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "205215e183d13070",
-            "type": "leaf",
-            "state": {
-              "type": "file-explorer",
-              "state": {
-                "sortOrder": "alphabetical",
-                "autoReveal": false
-              },
-              "icon": "lucide-folder-closed",
-              "title": "Files"
-            }
-          },
-          {
             "id": "2bd81af8ca316cd5",
             "type": "leaf",
             "state": {
@@ -80,16 +67,20 @@
             }
           },
           {
-            "id": "f14656e9aa5edb52",
+            "id": "fe40ccc5792dfcf3",
             "type": "leaf",
             "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -211,7 +202,7 @@
   "left-ribbon": {
     "hiddenItems": {
       "webpage-html-export:Export as HTML": false,
-      "pexels-banner:🚩 Pixel Banner Menu": true,
+      "pexels-banner:🚩 Pixel Banner Menu": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": true,
       "canvas:Create new canvas": true,
@@ -219,19 +210,21 @@
       "daily-notes:Open today's daily note": false,
       "command-palette:Open command palette": false,
       "bases:Create new base": true,
-      "obsidian-git:Open Git source control": false
+      "obsidian-git:Open Git source control": false,
+      "zk-prefixer:Create new unique note": false,
+      "workspaces:Manage workspace layouts": false
     }
   },
-  "active": "ee1dee277b1e98d1",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "Aadaab.md",
-    "Adhkaar.md",
-    "Ahadeeth.md",
-    "AlFiqh.md",
-    "AlQuran.md",
-    "AnNaseeha.md",
-    "Aqeedah.md",
     "Arabiy.md",
+    "Aqeedah.md",
+    "AnNaseeha.md",
+    "AlQuran.md",
+    "AlFiqh.md",
+    "Ahadeeth.md",
+    "Adhkaar.md",
+    "Aadaab.md",
     "CoursePDFs/Quran004.pdf",
     "CoursePDFs/Quran005.pdf",
     "CoursePDFs/standardize_pdfs.sh",
