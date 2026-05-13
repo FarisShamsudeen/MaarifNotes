@@ -2,7 +2,7 @@
   "commitMessage": "Maarif Notes Manual-Update: {{date}} | {{hostname}}",
   "autoCommitMessage": "Maarif Notes Auto-Update: {{date}} | {{hostname}}",
   "commitMessageScript": "",
-  "commitDateFormat": "ddd - DD/MM/yyyy - HH:mm:ss",
+  "commitDateFormat": "ddd - DD/MM/yyyy - hh:mm:ss A",
   "autoSaveInterval": 0,
   "autoPushInterval": 0,
   "autoPullInterval": 0,
