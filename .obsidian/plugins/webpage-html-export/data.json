@@ -10,7 +10,7 @@
     "postProcess": true,
     "displayProgress": true,
     "inlineHTML": false,
-    "exportPath": "/home/Faris/HardDiskDrive/Islamic/Maarif_Vault",
+    "exportPath": "/home/Faris/Downloads",
     "filesToExport": [
       "all"
     ],
@@ -115,7 +115,7 @@
     },
     "themeToggleOptions": {
       "featureId": "theme-toggle",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -127,7 +127,7 @@
     },
     "graphViewOptions": {
       "featureId": "graph-view",
-      "enabled": false,
+      "enabled": true,
       "unavailable": false,
       "alwaysEnabled": false,
       "hideSettingsButton": false,
@@ -216,9 +216,7 @@
     "siteName": "MaarifNotesPage",
     "iconEmojiStyle": "Native",
     "exportRoot": "",
-    "includePluginCss": [
-      "pexels-banner"
-    ],
+    "includePluginCss": [],
     "includeStyleCssIds": [],
     "autoDisposeWebpages": true
   },

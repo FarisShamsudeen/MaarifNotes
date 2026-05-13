@@ -18,6 +18,37 @@ h1, h2, h3, h4, h5, h6,
 }
 
 /* ==========================================================
+   3. MUTED HASHTAGS (Reading & Editing Mode)
+   ========================================================== */
+
+/* Target tags in both Editing (Live Preview) and Reading mode */
+.cm-s-obsidian .cm-hashtag,
+.markdown-rendered a.tag {
+  display: inline-block !important;        /* Necessary for direction to take effect */ 
+  flex-direction: row !important;          /* Force items to align left-to-right */
+  direction: ltr !important;               /* Forces Left-to-Right orientation */
+  unicode-bidi: isolate !important;        /* Prevents tag from affecting surrounding RTL text */
+  background-color: transparent !important; /* Remove the bulky pill background */
+  border: none !important;                 /* Remove the border */
+  color: rgba(255, 255, 255, 0.4) !important; /* Mute the color (semi-transparent) */
+  font-size: 0.8em !important;             /* Make them smaller */
+  font-weight: 400 !important;             /* Remove the heavy bolding */
+  text-shadow: none !important;            /* Remove the glow/shadow */
+  transition: all 0.2s ease-in-out;        /* Smooth transition for hovering */
+  padding: 0 4px !important;
+}
+
+/* Restore styling when hovering */
+.cm-s-obsidian .cm-hashtag:hover,
+.markdown-rendered a.tag:hover {
+  color: #87ceeb !important;               /* Light blue to match your bold style */
+  background-color: rgba(135, 206, 235, 0.1) !important; /* Very subtle background */
+  opacity: 1 !important;
+  font-size: 0.9em !important;             /* Slight pop in size */
+  text-decoration: none !important;
+}
+
+/* ==========================================================
    2. CUSTOM TEXT FORMATS (Read & Edit Modes)
    Overrides Celestial Night's default formatting
    ========================================================== */
