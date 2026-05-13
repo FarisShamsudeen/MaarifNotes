@@ -192,7 +192,7 @@
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
-      "obsidian-git:Open Git source control": false,
+      "obsidian-git:Open Git source control": true,
       "templates:Insert template": false
     }
   },
