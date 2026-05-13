@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlQuran.md",
+                "file": "Aqeedah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlQuran"
+              "title": "Aqeedah"
             }
           }
         ]
@@ -63,7 +63,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Doubt",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -88,6 +88,16 @@
               "icon": "lucide-tags",
               "title": "Tags"
             }
+          },
+          {
+            "id": "f93836d39659092a",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
           }
         ],
         "currentTab": 1
@@ -110,7 +120,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "AlQuran.md",
+                "file": "Aqeedah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +130,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for AlQuran"
+              "title": "Backlinks for Aqeedah"
             }
           },
           {
@@ -129,12 +139,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "AlQuran.md",
+                "file": "Aqeedah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from AlQuran"
+              "title": "Outgoing links from Aqeedah"
             }
           },
           {
@@ -157,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AlQuran.md",
+                "file": "Aqeedah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AlQuran"
+              "title": "Outline of Aqeedah"
             }
           },
           {
@@ -172,10 +182,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "AlQuran.md"
+                "file": "Aqeedah.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for AlQuran"
+              "title": "File properties for Aqeedah"
             }
           }
         ],
@@ -199,12 +209,12 @@
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
     "AlQuran.md",
-    "Arabiy.md",
-    "Ahadeeth.md",
-    "Templates/Add Tags.md",
-    "Templates",
     "Adhkaar.md",
     "Aqeedah.md",
+    "Ahadeeth.md",
+    "Arabiy.md",
+    "Templates/Add Tags.md",
+    "Templates",
     "AnNaseeha.md",
     "AlFiqh.md",
     "Aadaab.md",
