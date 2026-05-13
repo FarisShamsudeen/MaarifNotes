@@ -31,26 +31,9 @@
     "type": "split",
     "children": [
       {
-        "id": "454f4aa699b747f3",
+        "id": "7ca41c044229e092",
         "type": "tabs",
         "children": [
-          {
-            "id": "2bd81af8ca316cd5",
-            "type": "leaf",
-            "state": {
-              "type": "search",
-              "state": {
-                "query": "CoursePDFs/Adaab",
-                "matchingCase": false,
-                "explainSearch": false,
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical"
-              },
-              "icon": "lucide-search",
-              "title": "Search"
-            }
-          },
           {
             "id": "fe40ccc5792dfcf3",
             "type": "leaf",
@@ -63,52 +46,32 @@
               "icon": "lucide-folder-closed",
               "title": "Files"
             }
-          }
-        ],
-        "currentTab": 1
-      }
-    ],
-    "direction": "horizontal",
-    "width": 250.5
-  },
-  "right": {
-    "id": "fa76877e325e2191",
-    "type": "split",
-    "children": [
-      {
-        "id": "f6f480c31a2d6eac",
-        "type": "tabs",
-        "children": [
+          },
           {
-            "id": "7d3eb314a60c9ce2",
+            "id": "e6eee55c2b017714",
             "type": "leaf",
             "state": {
-              "type": "backlink",
-              "state": {
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks"
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           },
           {
-            "id": "67c8bd207679cc9e",
+            "id": "2bd81af8ca316cd5",
             "type": "leaf",
             "state": {
-              "type": "outgoing-link",
+              "type": "search",
               "state": {
-                "file": "AlQuran.md",
-                "linksCollapsed": false,
-                "unlinkedCollapsed": true
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
               },
-              "icon": "links-going-out",
-              "title": "Outgoing links from AlQuran"
+              "icon": "lucide-search",
+              "title": "Search"
             }
           },
           {
@@ -124,6 +87,54 @@
               },
               "icon": "lucide-tags",
               "title": "Tags"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 242.5090675354004
+  },
+  "right": {
+    "id": "fa76877e325e2191",
+    "type": "split",
+    "children": [
+      {
+        "id": "f6f480c31a2d6eac",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "7d3eb314a60c9ce2",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "AlQuran.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for AlQuran"
+            }
+          },
+          {
+            "id": "67c8bd207679cc9e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "AlQuran.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from AlQuran"
             }
           },
           {
@@ -166,36 +177,28 @@
               "icon": "lucide-info",
               "title": "File properties for AlQuran"
             }
-          },
-          {
-            "id": "e6eee55c2b017714",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 406.5
+    "width": 406.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
       "webpage-html-export:Export as HTML": false,
       "switcher:Open quick switcher": true,
-      "graph:Open graph view": true,
+      "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "obsidian-git:Open Git source control": false,
       "templates:Insert template": false
     }
   },
-  "active": "911a041152b7b8d1",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "AlQuran.md",
     "Arabiy.md",
     "Ahadeeth.md",
     "Templates/Add Tags.md",
@@ -203,7 +206,6 @@
     "Adhkaar.md",
     "Aqeedah.md",
     "AnNaseeha.md",
-    "AlQuran.md",
     "AlFiqh.md",
     "Aadaab.md",
     "CoursePDFs/Quran004.pdf",

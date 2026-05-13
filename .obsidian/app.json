@@ -1,7 +1,8 @@
 {
   "propertiesInDocument": "hidden",
-  "showIndentGuide": false,
+  "showIndentGuide": true,
   "spellcheck": false,
   "alwaysUpdateLinks": true,
-  "showUnsupportedFiles": true
+  "showUnsupportedFiles": true,
+  "rightToLeft": false
 }
