@@ -14,7 +14,7 @@
               "type": "markdown",
               "state": {
                 "file": "AlFiqh.md",
-                "mode": "source",
+                "mode": "preview",
                 "source": false
               },
               "icon": "lucide-file",
@@ -206,7 +206,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "e6eee55c2b017714",
+  "active": "911a041152b7b8d1",
   "lastOpenFiles": [
     "Aadaab.md",
     "Aqeedah.md",
