@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugah.md",
+                "file": "Aqeedah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Lugah"
+              "title": "Aqeedah"
             }
           }
         ]
@@ -167,13 +167,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AlFiqh.md",
+                "file": "Aqeedah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AlFiqh"
+              "title": "Outline of Aqeedah"
             }
           },
           {
@@ -208,25 +208,25 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "Adhkaar.md",
+    "AlQuran.md",
     "AlFiqh.md",
+    "Aadaab.md",
+    "Ahadeeth.md",
+    "Adhkaar.md",
+    "CoursePDFs/HadeethHifd006.pdf",
+    "Lugah.md",
+    "CoursePDFs/Lugah005.pdf",
     "CoursePDFs/Lugah002.pdf",
     "CoursePDFs/Quran006.pdf",
-    "CoursePDFs/Lugah005.pdf",
-    "CoursePDFs/HadeethHifd006.pdf",
     "CoursePDFs/Fiqh006.pdf",
     "CoursePDFs/Aqeeda006.pdf",
     "CoursePDFs/Adkaar006.pdf",
     "CoursePDFs/Adaab006.pdf",
     "CoursePDFs/standardize_pdfs.sh~",
     "CoursePDFs/Aqeeda 6.pdf",
-    "Aadaab.md",
     "Aqeedah.md",
-    "AlQuran.md",
     "AnNaseeha.md",
-    "Ahadeeth.md",
     "Templates/Add Tags.md",
-    "Lugah.md",
     "2.pdf.md",
     "Maarif/CoursePDFs/Adaab1.pdf.md",
     "Maarif/Arabiy.md",
