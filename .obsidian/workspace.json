@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlFiqh.md",
+                "file": "Lugah.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AlFiqh"
+              "title": "Lugah"
             }
           }
         ]
@@ -104,7 +104,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300.5090675354004
+    "width": 278.5090675354004
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -206,27 +206,27 @@
       "templates:Insert template": false
     }
   },
-  "active": "911a041152b7b8d1",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Adhkaar.md",
+    "AlFiqh.md",
+    "CoursePDFs/Lugah002.pdf",
+    "CoursePDFs/Quran006.pdf",
+    "CoursePDFs/Lugah005.pdf",
+    "CoursePDFs/HadeethHifd006.pdf",
+    "CoursePDFs/Fiqh006.pdf",
+    "CoursePDFs/Aqeeda006.pdf",
+    "CoursePDFs/Adkaar006.pdf",
+    "CoursePDFs/Adaab006.pdf",
+    "CoursePDFs/standardize_pdfs.sh~",
+    "CoursePDFs/Aqeeda 6.pdf",
     "Aadaab.md",
     "Aqeedah.md",
     "AlQuran.md",
-    "AlFiqh.md",
     "AnNaseeha.md",
-    "Adhkaar.md",
     "Ahadeeth.md",
     "Templates/Add Tags.md",
-    "Arabiy.md",
-    "Templates",
-    "CoursePDFs/Quran004.pdf",
-    "CoursePDFs/Quran005.pdf",
-    "CoursePDFs/standardize_pdfs.sh",
-    "CoursePDFs/Quran003.pdf",
-    "CoursePDFs/Quran002.pdf",
-    "CoursePDFs/Quran001.pdf",
-    "CoursePDFs/Lugah005.pdf",
-    "CoursePDFs/Lugah003.pdf",
-    "CoursePDFs/Lugah004.pdf",
+    "Lugah.md",
     "2.pdf.md",
     "Maarif/CoursePDFs/Adaab1.pdf.md",
     "Maarif/Arabiy.md",
@@ -243,7 +243,6 @@
     "Maarif/CoursePDFs/Lugah3.md",
     "Maarif/CoursePDFs/HadeethHifd1.md",
     "Maarif/CoursePDFs/Fiqh1.md",
-    "Maarif/CoursePDFs/Quran1.md",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
     "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",

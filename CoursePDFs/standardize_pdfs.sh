@@ -38,50 +38,63 @@ renamed=0
 skipped=0
 already_ok=0
 
-# Pattern for an ALREADY-correct name:  <letters><exactly 3 digits>.pdf
+# Pattern: already correct — <letters><exactly 3 digits>.pdf  e.g. Adaab005.pdf
 CORRECT_RE='^([A-Za-z]+)([0-9]{3})\.pdf$'
 
-# Pattern for a name that needs fixing:  <letters><1 or 2 digits>.pdf
-FIXABLE_RE='^([A-Za-z]+)([0-9]{1,2})\.pdf$'
+# Pattern: no spaces, just needs number padding — e.g. Adaab1.pdf, Fiqh12.pdf
+NOSPACE_RE='^([A-Za-z]+)([0-9]{1,2})\.pdf$'
+
+# Pattern: spaces between words and/or before number — e.g. "Hadeeth Hifd 6.pdf", "Aqeedah 1.pdf"
+# Last token must be a number; everything before it is the subject (words joined).
+SPACED_RE='^(([A-Za-z]+ )+)([0-9]{1,3})\.pdf$'
 
 while IFS= read -r -d '' file; do
   dir="$(dirname "$file")"
   base="$(basename "$file")"
 
-  # Already correct — skip silently
+  # ── Already correct ────────────────────────────────────────────────────────
   if [[ "$base" =~ $CORRECT_RE ]]; then
     (( already_ok++ )) || true
     continue
   fi
 
-  # Needs renaming
-  if [[ "$base" =~ $FIXABLE_RE ]]; then
+  # ── No-space form that just needs zero-padding ─────────────────────────────
+  if [[ "$base" =~ $NOSPACE_RE ]]; then
     subject="${BASH_REMATCH[1]}"
     number="${BASH_REMATCH[2]}"
-    new_base="${subject}$(printf '%03d' "$number").pdf"
-    new_file="$dir/$new_base"
 
-    if [[ "$file" == "$new_file" ]]; then
-      (( already_ok++ )) || true
-      continue
-    fi
+  # ── Spaced form: "Hadeeth Hifd 6.pdf" → "HadeethHifd006.pdf" ─────────────
+  elif [[ "$base" =~ $SPACED_RE ]]; then
+    raw_subject="${BASH_REMATCH[1]}"          # e.g. "Hadeeth Hifd "
+    number="${BASH_REMATCH[3]}"               # e.g. "6"
+    subject="${raw_subject// /}"              # strip all spaces → "HadeethHifd"
 
-    if [[ -e "$new_file" ]]; then
-      echo -e "${YELLOW}  SKIP (target exists):${RESET} $base  →  $new_base"
-      (( skipped++ )) || true
-      continue
-    fi
-
-    echo -e "${GREEN}  RENAME:${RESET} $base  →  $new_base"
-    if ! $DRY_RUN; then
-      mv -- "$file" "$new_file"
-    fi
-    (( renamed++ )) || true
+  # ── Unrecognised — leave untouched ────────────────────────────────────────
   else
-    # Name doesn't match either pattern — leave it alone
     echo -e "${YELLOW}  UNRECOGNISED (skipped):${RESET} $base"
     (( skipped++ )) || true
+    continue
   fi
+
+  new_base="${subject}$(printf '%03d' "$number").pdf"
+  new_file="$dir/$new_base"
+
+  if [[ "$file" == "$new_file" ]]; then
+    (( already_ok++ )) || true
+    continue
+  fi
+
+  if [[ -e "$new_file" ]]; then
+    echo -e "${YELLOW}  SKIP (target exists):${RESET} $base  →  $new_base"
+    (( skipped++ )) || true
+    continue
+  fi
+
+  echo -e "${GREEN}  RENAME:${RESET} $base  →  $new_base"
+  if ! $DRY_RUN; then
+    mv -- "$file" "$new_file"
+  fi
+  (( renamed++ )) || true
 
 done < <(find "$FOLDER" -maxdepth 1 -iname "*.pdf" -print0 | sort -z)
 
