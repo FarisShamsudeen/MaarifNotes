@@ -134,14 +134,18 @@ ___
 	3. **وَتَقْلِيمُ الْأَظْفَارِ**، - Clipping the Nails
 	4. **وَنَتْفُ الْإِبْطِ**، - Plucking the Underarm Hair
 	5. **وَقَصُّ الشَّارِبِ**‏. - Trimming the Moustache
-- ‏**عشر من الفطرة**‏:‏ #Hadeeth/Etiquette/NaturalPresupposion
-	1. **قص الشارب**، 
-	2. **وإعفاء اللحية**، 
-	3. **والسواك**، 
-	4. **واستنشاق الماء**، 
-	5. **وقص الأظفار**، 
-	6. **وغسل البراجم**، 
-	7. **ونتف الإبط**، 
-	8. **وحلق العانة**، 
-	9. **وانتقاص الماء**
-	10. ‏قال الراوي‏:‏ *ونسيت العاشرة إلا أن تكون المضمضة*
+- ‏**عشر من الفطرة**‏:‏ #Hadeeth/Etiquette/NaturalPresupposion #Hadeeth/Sahaabah/Truthfulness  
+	1. **قص الشارب**، - Trimming the Moustache
+	2. **وإعفاء اللحية**، - Grow the Beard
+	3. **والسواك**، - Brushing the Teeth
+	4. **واستنشاق الماء**، - Rinse the Nose with Water
+	5. **وقص الأظفار**، - Clipping the Nails
+	6. **وغسل البراجم**، - Washing the Joints of Fingers
+	7. **ونتف الإبط**، - Removal of the Underarm Hair
+	8. **وحلق العانة**، - Shaving the Pubic Hairs
+	9. **وانتقاص الماء** - Washing after the call of nature
+	10. ‏قال الراوي‏:‏ *ونسيت العاشرة إلا أن تكون المضمضة* - Rinse the Mouth with water
+
+### الْخِتَانُ
+- ഇബ്രാഹിം നബി عَلَيْهِ السَّلام  യോട് അള്ളാഹു ﷻ ~~എൺപതാം വയസ്സിൽ~~ കൽപ്പിച്ച കാര്യമാണ് ~~ചേലാകർമ്മം~~.
+- 
