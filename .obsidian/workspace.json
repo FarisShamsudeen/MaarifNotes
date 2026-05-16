@@ -4,19 +4,17 @@
     "type": "split",
     "children": [
       {
-        "id": "dd702ffac36fe559",
+        "id": "7acda184b52f2fe8",
         "type": "tabs",
         "children": [
           {
-            "id": "911a041152b7b8d1",
+            "id": "9e1887dd88989b27",
             "type": "leaf",
             "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CoursePDFs/Adaab001.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Adaab001"
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "New tab"
             }
           }
         ]
