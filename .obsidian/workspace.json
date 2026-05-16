@@ -11,14 +11,12 @@
             "id": "911a041152b7b8d1",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Aqeedah.md",
-                "mode": "source",
-                "source": false
+                "file": "CoursePDFs/Adaab001.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Aqeedah"
+              "icon": "lucide-file-text",
+              "title": "Adaab001"
             }
           }
         ]
@@ -208,9 +206,16 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "CoursePDFs/Adaab006.pdf",
+    "CoursePDFs/Adaab005.pdf",
+    "CoursePDFs/Adaab004.pdf",
+    "CoursePDFs/Adaab003.pdf",
+    "CoursePDFs/Adaab002.pdf",
+    "CoursePDFs/Adaab001.pdf",
+    "Aadaab.md",
+    "Aqeedah.md",
     "AlQuran.md",
     "AlFiqh.md",
-    "Aadaab.md",
     "Ahadeeth.md",
     "Adhkaar.md",
     "CoursePDFs/HadeethHifd006.pdf",
@@ -219,12 +224,6 @@
     "CoursePDFs/Lugah002.pdf",
     "CoursePDFs/Quran006.pdf",
     "CoursePDFs/Fiqh006.pdf",
-    "CoursePDFs/Aqeeda006.pdf",
-    "CoursePDFs/Adkaar006.pdf",
-    "CoursePDFs/Adaab006.pdf",
-    "CoursePDFs/standardize_pdfs.sh~",
-    "CoursePDFs/Aqeeda 6.pdf",
-    "Aqeedah.md",
     "AnNaseeha.md",
     "Templates/Add Tags.md",
     "2.pdf.md",

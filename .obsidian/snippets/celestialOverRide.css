@@ -99,3 +99,130 @@ h1, h2, h3, h4, h5, h6,
   padding: 2px 6px !important;
   border-radius: 25px !important;
 }
+
+
+/* ==========================================================
+   4. PDF / PRINT EXPORT OVERRIDES
+   Mirrors your Celestial Night look in exported PDFs.
+   ========================================================== */
+@media print {
+
+  /* --- Force the PDF renderer to print all colors as-is --- */
+  * {
+    -webkit-print-color-adjust: exact !important;
+    print-color-adjust: exact !important;
+  }
+
+  /* --- Page background & base text (Celestial Night dark bg) --- */
+  @page {
+    margin: 1.5cm;
+  }
+
+  html, body,
+  .markdown-preview-view,
+  .markdown-rendered {
+    background-color: #0d0d1a !important; /* Celestial Night dark background */
+    color: #dce5f5 !important;            /* Default text color */
+    /* Fonts: Google Fonts may not load in PDF, so we fall back gracefully */
+    font-family: 'Zain', 'Anek Malayalam', Georgia, serif !important;
+    font-size: 16px !important;
+    line-height: 1.7 !important;
+  }
+
+  /* --- Headings --- */
+  h1, h2, h3, h4, h5, h6 {
+    font-family: 'Zain', 'Anek Malayalam', Georgia, serif !important;
+    color: #a9c9ff !important;            /* Celestial Night heading color */
+    page-break-after: avoid !important;
+  }
+
+  /* --- BOLD --- */
+  strong, b {
+    color: #87ceeb !important;
+    font-weight: 900 !important;
+    text-shadow: 0px 0px 6px #87ceeb !important;
+    padding: 2px 6px !important;
+    border-radius: 25px !important;
+  }
+
+  /* --- HIGHLIGHT --- */
+  mark {
+    background-color: transparent !important;
+    color: #ffff00 !important;
+    font-weight: 900 !important;
+    text-shadow: 0px 0px 6px #ffff00 !important;
+    padding: 2px 6px !important;
+    border-radius: 25px !important;
+  }
+
+  /* --- ITALIC / EMPHASIS --- */
+  em, i {
+    color: lightgreen !important;
+    font-style: normal !important;
+    font-weight: 900 !important;
+    text-shadow: 0px 0px 6px lightgreen !important;
+    padding: 2px 6px !important;
+    border-radius: 25px !important;
+  }
+
+  /* --- STRIKETHROUGH --- */
+  s, del {
+    color: #ffffff !important;
+    font-weight: 900 !important;
+    text-decoration: none !important;
+    text-shadow: 0px 0px 6px #ffffff !important;
+    padding: 2px 6px !important;
+    border-radius: 25px !important;
+  }
+
+  /* --- TAGS / HASHTAGS --- */
+  a.tag {
+    background-color: transparent !important;
+    border: none !important;
+    color: rgba(220, 229, 245, 0.4) !important;
+    font-size: 0.8em !important;
+    font-weight: 400 !important;
+    text-shadow: none !important;
+    padding: 0 4px !important;
+  }
+
+  /* --- LINKS --- */
+  a {
+    color: #87ceeb !important;
+    text-decoration: underline !important;
+  }
+
+  /* --- CODE BLOCKS --- */
+  code, pre {
+    background-color: #1a1a2e !important;
+    color: #a9c9ff !important;
+    border-radius: 4px !important;
+    padding: 2px 6px !important;
+    font-family: 'Courier New', monospace !important;
+  }
+
+  pre {
+    padding: 12px !important;
+    page-break-inside: avoid !important;
+  }
+
+  /* --- BLOCKQUOTES --- */
+  blockquote {
+    border-left: 3px solid #87ceeb !important;
+    color: rgba(220, 229, 245, 0.75) !important;
+    padding-left: 12px !important;
+    margin-left: 0 !important;
+  }
+
+  /* --- HORIZONTAL RULES --- */
+  hr {
+    border-color: rgba(135, 206, 235, 0.3) !important;
+  }
+
+  /* --- HIDE UI ELEMENTS that shouldn't appear in PDF --- */
+  .sidebar, .status-bar, .nav-header,
+  .view-header, .workspace-ribbon,
+  .cm-s-obsidian .cm-hashtag {
+    display: none !important;
+  }
+}

@@ -9,7 +9,8 @@
     "includeName": true,
     "pageSize": "Letter",
     "landscape": false,
-    "margin": "0",
+    "margin": "1",
     "downscalePercent": 100
-  }
+  },
+  "attachmentFolderPath": "CoursePDFs"
 }
