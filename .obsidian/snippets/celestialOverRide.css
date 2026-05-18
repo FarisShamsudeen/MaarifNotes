@@ -113,9 +113,13 @@ h1, h2, h3, h4, h5, h6,
     print-color-adjust: exact !important;
   }
 
-  /* --- Page background & base text (Celestial Night dark bg) --- */
   @page {
-    margin: 1.5cm;
+    margin: 0 !important;  /* ← kills the white page margin */
+  }
+
+  html, body {
+    margin: 0 !important;  /* ← kills the body offset */
+    padding: 0 !important;
   }
 
   html, body,
@@ -127,6 +131,8 @@ h1, h2, h3, h4, h5, h6,
     font-family: 'Zain', 'Anek Malayalam', Georgia, serif !important;
     font-size: 16px !important;
     line-height: 1.7 !important;
+    padding: 40px 50px !important; /* ← comfortable reading margin, dark-colored */
+
   }
 
   /* --- Headings --- */
