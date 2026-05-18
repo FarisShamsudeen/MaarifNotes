@@ -5,7 +5,7 @@
 
 (متّفَقٌ عليه)
 - قال النبي صلى الله عليه وسلم **نضر الله امرا سمع مقالتي فبعاها فاداها كما سمعها فارب مبلغ او عامل سامع**
-![HadeethHifd1](CoursePDFs/HadeethHifd001.pdf)
+[Official Notes of HadeethHifd 1](CoursePDFs/HadeethHifd001.pdf)
 
 ‎ 
 ******
@@ -17,7 +17,7 @@
 
 - افضل الاعمال من هؤلاء **علم ينتفع به**
 
-![HadeethHifd2](CoursePDFs/HadeethHifd002.pdf)
+[Official Notes of HadeethHifd 2](CoursePDFs/HadeethHifd002.pdf)
 
 ****
 # 19.04.2026
@@ -26,7 +26,7 @@
 
 (سنن ابن ماجه والترمذي وصححه الباني)
 
-![HadeethHifd3](CoursePDFs/HadeethHifd003.pdf)
+[Official Notes of HadeethHifd 3](CoursePDFs/HadeethHifd003.pdf)
 
 ****
 # 26.04.2026
@@ -38,21 +38,17 @@
 	- ഈമാനിന്റെ പൂർത്തീകരണത്തിനാണ് 
 	- അല്ലെങ്കിൽ കുറ്റം കിട്ടുന്ന കാര്യം 
 
-![HadeethHifd4](CoursePDFs/HadeethHifd004.pdf)
+[Official Notes of HadeethHifd 4](CoursePDFs/HadeethHifd004.pdf)
 
 ****
 # 02.05.2026
+##  بُنِيَ الإِسْلاَمُ عَلَى خَمْسٍ شَهَادَةِ أَنْ لاَ إِلَهَ إِلاَّ اللَّهُ وَأَنَّ مُحَمَّدًا رَسُولُ اللَّهِ، وَإِقَامِ الصَّلاَةِ، وَإِيتَاءِ الزَّكَاةِ، وَالْحَجِّ، وَصَوْمِ رَمَضَانَ
 
->[!example] Tags
->
-> #Tawhid #PillarsOfIslam #Prayer #Zakath #Hajj #Fasting #Ramadan
-
-
-![[HadeethHifd005.pdf]]
+[Official Notes of HadeethHifd 5](HadeethHifd005.pdf) #Tawhid #PillarsOfIslam #Prayer #Zakath #Hajj #Fasting #Ramadan
 
 ****
 # 09.05.2026
-
-![[HadeethHifd006.pdf]]
+## يَا غُلاَمُ سَمِّ اللَّهَ، وَكُلْ بِيَمِينِكَ وَكُلْ مِمَّا يَلِيكَ
+[Official Notes of HadeethHifd 6](HadeethHifd006.pdf) #Hadeeth/Etiquette/FoodAndDrinks #Hadeeth/Dhikr/Eating #Hadeeth/Etiquette/StartWithRight #Hadeeth/Dhikr/EatingFood #Hadeeth/Dhikr/Eating/FromNear
 
 ****
