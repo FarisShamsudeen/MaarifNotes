@@ -14,7 +14,11 @@
               "type": "markdown",
               "state": {
                 "file": "AlQuran.md",
+<<<<<<< HEAD
                 "mode": "source",
+=======
+                "mode": "preview",
+>>>>>>> origin/main
                 "source": false,
                 "backlinks": true,
                 "backlinkOpts": {

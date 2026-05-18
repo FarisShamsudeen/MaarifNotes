@@ -25,14 +25,24 @@
             "id": "e862b9dac190e1cc",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": ".obsidian/workspace.json",
-                "bFile": ".obsidian/workspace.json",
-                "aRef": ""
+                "file": "AlQuran.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
               },
-              "icon": "diff",
-              "title": "Diff: workspace.json  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "AlQuran"
             }
           },
           {
@@ -236,7 +246,7 @@
       "templates:Insert template": false
     }
   },
-  "active": "e862b9dac190e1cc",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
     "conflict-files-obsidian-git.md",
     "AlQuran.md",

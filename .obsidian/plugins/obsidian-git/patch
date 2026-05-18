@@ -1,0 +1,281 @@
+diff --git a/.obsidian/workspace.json b/.obsidian/workspace.json
+index 000000..000000 100644
+--- a/.obsidian/workspace.json
++++ b/.obsidian/workspace.json
+@@ -1,0 +1,275 @@
++{
++  "main": {
++    "id": "503bbdc1727b40b7",
++    "type": "split",
++    "children": [
++      {
++        "id": "8c96f3d2c0cc9ff9",
++        "type": "tabs",
++        "children": [
++          {
++            "id": "990e5035d77818c7",
++            "type": "leaf",
++            "state": {
++              "type": "split-diff-view",
++              "state": {
++                "aFile": ".obsidian/workspace-mobile.json",
++                "bFile": ".obsidian/workspace-mobile.json",
++                "aRef": "HEAD",
++                "bRef": ""
++              },
++              "icon": "diff",
++              "title": "Diff: workspace-mobile.json  (Index)"
++            }
++          },
++          {
++            "id": "97412dc94e71e953",
++            "type": "leaf",
++            "state": {
++              "type": "split-diff-view",
++              "state": {
++                "aFile": ".obsidian/workspace-mobile.json",
++                "bFile": ".obsidian/workspace-mobile.json",
++                "aRef": "HEAD",
++                "bRef": ""
++              },
++              "icon": "diff",
++              "title": "Diff: workspace-mobile.json  (Index)"
++            }
++          }
++        ]
++      }
++    ],
++    "direction": "vertical"
++  },
++  "left": {
++    "id": "09815a1e78804637",
++    "type": "split",
++    "children": [
++      {
++        "id": "7ca41c044229e092",
++        "type": "tabs",
++        "children": [
++          {
++            "id": "fe40ccc5792dfcf3",
++            "type": "leaf",
++            "state": {
++              "type": "file-explorer",
++              "state": {
++                "sortOrder": "alphabetical",
++                "autoReveal": false
++              },
++              "icon": "lucide-folder-closed",
++              "title": "Files"
++            }
++          },
++          {
++            "id": "e6eee55c2b017714",
++            "type": "leaf",
++            "state": {
++              "type": "git-view",
++              "state": {},
++              "icon": "git-pull-request",
++              "title": "Source Control"
++            }
++          },
++          {
++            "id": "2bd81af8ca316cd5",
++            "type": "leaf",
++            "state": {
++              "type": "search",
++              "state": {
++                "query": "tag:#Tawhid",
++                "matchingCase": false,
++                "explainSearch": false,
++                "collapseAll": false,
++                "extraContext": false,
++                "sortOrder": "alphabetical"
++              },
++              "icon": "lucide-search",
++              "title": "Search"
++            }
++          },
++          {
++            "id": "7019ad9516ea710d",
++            "type": "leaf",
++            "state": {
++              "type": "tag",
++              "state": {
++                "sortOrder": "frequency",
++                "useHierarchy": true,
++                "showSearch": false,
++                "searchQuery": ""
++              },
++              "icon": "lucide-tags",
++              "title": "Tags"
++            }
++          },
++          {
++            "id": "f93836d39659092a",
++            "type": "leaf",
++            "state": {
++              "type": "bookmarks",
++              "state": {},
++              "icon": "lucide-bookmark",
++              "title": "Bookmarks"
++            }
++          }
++        ],
++        "currentTab": 1
++      }
++    ],
++    "direction": "horizontal",
++    "width": 278.5090675354004
++  },
++  "right": {
++    "id": "fa76877e325e2191",
++    "type": "split",
++    "children": [
++      {
++        "id": "f6f480c31a2d6eac",
++        "type": "tabs",
++        "children": [
++          {
++            "id": "7d3eb314a60c9ce2",
++            "type": "leaf",
++            "state": {
++              "type": "backlink",
++              "state": {
++                "file": "Aqeedah.md",
++                "collapseAll": false,
++                "extraContext": false,
++                "sortOrder": "alphabetical",
++                "showSearch": false,
++                "searchQuery": "",
++                "backlinkCollapsed": false,
++                "unlinkedCollapsed": true
++              },
++              "icon": "links-coming-in",
++              "title": "Backlinks for Aqeedah"
++            }
++          },
++          {
++            "id": "67c8bd207679cc9e",
++            "type": "leaf",
++            "state": {
++              "type": "outgoing-link",
++              "state": {
++                "file": "Aqeedah.md",
++                "linksCollapsed": false,
++                "unlinkedCollapsed": true
++              },
++              "icon": "links-going-out",
++              "title": "Outgoing links from Aqeedah"
++            }
++          },
++          {
++            "id": "f97d2fe2d8a23560",
++            "type": "leaf",
++            "state": {
++              "type": "all-properties",
++              "state": {
++                "sortOrder": "frequency",
++                "showSearch": false,
++                "searchQuery": ""
++              },
++              "icon": "lucide-archive",
++              "title": "All properties"
++            }
++          },
++          {
++            "id": "a229d51e94f9197b",
++            "type": "leaf",
++            "state": {
++              "type": "outline",
++              "state": {
++                "file": "Aqeedah.md",
++                "followCursor": false,
++                "showSearch": false,
++                "searchQuery": ""
++              },
++              "icon": "lucide-list",
++              "title": "Outline of Aqeedah"
++            }
++          },
++          {
++            "id": "0178518f12bd7186",
++            "type": "leaf",
++            "state": {
++              "type": "file-properties",
++              "state": {
++                "file": "Aqeedah.md"
++              },
++              "icon": "lucide-info",
++              "title": "File properties for Aqeedah"
++            }
++          }
++        ],
++        "currentTab": 3
++      }
++    ],
++    "direction": "horizontal",
++    "width": 406.5,
++    "collapsed": true
++  },
++  "left-ribbon": {
++    "hiddenItems": {
++      "webpage-html-export:Export as HTML": false,
++      "switcher:Open quick switcher": true,
++      "graph:Open graph view": false,
++      "command-palette:Open command palette": false,
++      "obsidian-git:Open Git source control": true,
++      "templates:Insert template": false
++    }
++  },
++  "active": "990e5035d77818c7",
++  "lastOpenFiles": [
++    "conflict-files-obsidian-git.md",
++    "AlQuran.md",
++    "Aqeedah.md",
++    "CoursePDFs/Aqeeda001.pdf",
++    "Lugah.md",
++    "AnNaseeha.md",
++    "AlFiqh.md",
++    "Ahadeeth.md",
++    "CoursePDFs/HadeethHifd005.pdf",
++    "Adhkaar.md",
++    "CoursePDFs/Adaab001.pdf",
++    "Aadaab.md",
++    "CoursePDFs/Fiqh003.pdf",
++    "CoursePDFs/Fiqh004.pdf",
++    "CoursePDFs/Fiqh006.pdf",
++    "CoursePDFs/HadeethHifd001.pdf",
++    "CoursePDFs/HadeethHifd003.pdf",
++    "CoursePDFs/Lugah001.pdf",
++    "CoursePDFs/Quran003.pdf",
++    "Templates/Add Tags.md",
++    "2.pdf.md",
++    "Maarif/CoursePDFs/Adaab1.pdf.md",
++    "Maarif/Arabiy.md",
++    "Maarif/AnNaseeha.md",
++    "Maarif/AlFiqh.md",
++    "Maarif/Ahadeeth.md",
++    "Maarif/Aadaab.md",
++    "Maarif/Adhkaar.md",
++    "Maarif/AlQuran.md",
++    "Maarif/Aqeedah.md",
++    "Maarif/CoursePDFs/Adaab2.md",
++    "Maarif/CoursePDFs/Adaab1.md",
++    "Maarif/CoursePDFs/Lugah2.md",
++    "Maarif/CoursePDFs/Lugah3.md",
++    "Maarif/CoursePDFs/HadeethHifd1.md",
++    "Maarif/CoursePDFs/Fiqh1.md",
++    "Maarif/maarif/site-lib/media/favicon.png",
++    "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
++    "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",
++    "Maarif/site-lib/media/favicon.png",
++    "Maarif/site-lib/media/6155340132a851f6089e.svg",
++    "Maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",
++    "Pasted image 20260423220153.png",
++    "Pasted image 20260423220141.png",
++    "Pasted image 20260419180502.png",
++    "Brototype/Intake 2 Notes/Images/Screenshot_2026-04-12-12-41-30-93_254de13a4bc8758c9908fff1f73e3725.jpg",
++    "Maarif/Untitled.canvas"
++  ]
++}
+\ No newline at end of file
