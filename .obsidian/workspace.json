@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aqeedah.md",
+                "file": "AlQuran.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aqeedah"
+              "title": "AlQuran"
             }
           }
         ]
@@ -209,8 +209,8 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "CoursePDFs/Aqeeda001.pdf",
     "Aqeedah.md",
+    "CoursePDFs/Aqeeda001.pdf",
     "Lugah.md",
     "AnNaseeha.md",
     "AlQuran.md",
@@ -227,7 +227,6 @@
     "CoursePDFs/HadeethHifd003.pdf",
     "CoursePDFs/Lugah001.pdf",
     "CoursePDFs/Quran003.pdf",
-    "CoursePDFs/Quran002.pdf",
     "Templates/Add Tags.md",
     "2.pdf.md",
     "Maarif/CoursePDFs/Adaab1.pdf.md",
