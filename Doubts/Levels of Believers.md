@@ -1,13 +1,13 @@
-Title: "{{title}}"
-Date: {{date}} {{time}}
-Status: #Doubt/Pending 
+Title: "Levels of Believers"
+Date: Tuesday, 19-May-2026 04:56:34 PM
+Status: #Doubt/Completed 
 Tags: #Aqeedah/Salafi 
 
 
 # 🧠 Doubt
 
 > [!question]
-> Write the exact doubt/question here.
+> ഇതിൽ എല്ലാവരും ഒരേ സ്ഥാനത്ത് ആയിരിക്കുമോ ? 
 
 ---
 
@@ -35,8 +35,8 @@ Tags: #Aqeedah/Salafi
 # 📖 Research Notes
 
 ## Evidences
-- Qur'an:
-- Hadith:
+- Qur'an: [صراط الذين انعمت عليهم غير المغضوب عليهم ولا الضالين](AlQuran.md#صراط%20الذين%20انعمت%20عليهم%20غير%20المغضوب%20عليهم%20ولا%20الضالين)
+- Hadith: 
 - Statements of Scholars:
 - Arabic Terms:
 

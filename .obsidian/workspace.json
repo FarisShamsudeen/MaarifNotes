@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doubts/Halal Jokes.md",
+                "file": "Aqeedah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Halal Jokes"
+              "title": "Aqeedah"
             }
           }
         ]
@@ -54,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Tawhid",
+                "query": "tag:#Doubt/Pending",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,16 +81,6 @@
             }
           },
           {
-            "id": "f93836d39659092a",
-            "type": "leaf",
-            "state": {
-              "type": "bookmarks",
-              "state": {},
-              "icon": "lucide-bookmark",
-              "title": "Bookmarks"
-            }
-          },
-          {
             "id": "e6eee55c2b017714",
             "type": "leaf",
             "state": {
@@ -101,7 +91,7 @@
             }
           }
         ],
-        "currentTab": 4
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
@@ -207,16 +197,22 @@
       "templates:Insert template": false
     }
   },
-  "active": "e862b9dac190e1cc",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Doubts/Angels for monitoring Fetus.md",
+    "Aqeedah.md",
+    "Doubts/Levels of Believers.md",
+    "Doubts/Reciting Dhikr Instead of Quran?.md",
+    "AlQuran.md",
     "Templates/Doubt template.md",
     "Doubts/Halal Jokes.md",
+    "Doubts/Eating with Shaythaan.md",
+    "Adhkaar.md",
+    "Aadaab.md",
     "Doubts.md",
     "Untitled.md",
     "Templates",
     "Doubts",
-    "Aqeedah.md",
-    "AlQuran.md",
     "conflict-files-obsidian-git.md",
     "CoursePDFs/Aqeeda001.pdf",
     "Lugah.md",
@@ -224,9 +220,7 @@
     "AlFiqh.md",
     "Ahadeeth.md",
     "CoursePDFs/HadeethHifd005.pdf",
-    "Adhkaar.md",
     "CoursePDFs/Adaab001.pdf",
-    "Aadaab.md",
     "CoursePDFs/Fiqh003.pdf",
     "CoursePDFs/Fiqh004.pdf",
     "CoursePDFs/Fiqh006.pdf",
@@ -241,10 +235,6 @@
     "Maarif/Ahadeeth.md",
     "Maarif/Aadaab.md",
     "Maarif/Adhkaar.md",
-    "Maarif/AlQuran.md",
-    "Maarif/Aqeedah.md",
-    "Maarif/CoursePDFs/Adaab2.md",
-    "Maarif/CoursePDFs/Adaab1.md",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
     "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",
