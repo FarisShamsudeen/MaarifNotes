@@ -1,5 +1,5 @@
 Title: "{{title}}"
-Date: {{date}} {{time}}
+Date: {{date}} | {{time}}
 Status: #Doubt/Pending 
 Tags: #Aqeedah/Salafi 
 
@@ -18,6 +18,8 @@ Tags: #Aqeedah/Salafi
 - [ ] Book
 - [ ] Personal Thinking
 - [ ] Speaker/Author
+- [ ] Ayah
+- [ ] Hadeeth
 
 ---
 # ✅ Answer
