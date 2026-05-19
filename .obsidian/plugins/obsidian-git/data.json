@@ -1,5 +1,5 @@
 {
-  "commitMessage": "Maarif Notes Manual-Update: {{date}} | {{hostname}}",
+  "commitMessage": "Maarif Notes : {{date}} | {{hostname}}",
   "autoCommitMessage": "Maarif Notes Auto-Update: {{date}} | {{hostname}}",
   "commitMessageScript": "",
   "commitDateFormat": "ddd - DD/MM/yyyy - hh:mm:ss A",
