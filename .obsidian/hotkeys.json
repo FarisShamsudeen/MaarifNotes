@@ -248,5 +248,14 @@
       ],
       "key": "L"
     }
+  ],
+  "file-explorer:new-file": [],
+  "insert-template": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "N"
+    }
   ]
 }

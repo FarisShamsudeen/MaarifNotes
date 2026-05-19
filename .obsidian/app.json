@@ -15,5 +15,7 @@
   "attachmentFolderPath": "CoursePDFs",
   "useMarkdownLinks": true,
   "showInlineTitle": true,
-  "readableLineLength": true
+  "readableLineLength": true,
+  "newFileLocation": "folder",
+  "newFileFolderPath": "Doubts"
 }
