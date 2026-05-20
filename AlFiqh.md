@@ -21,7 +21,7 @@ ___
 2. الوضوء 
 3. التيمم
 ‎ 
-[Official Notes Fiqh1](CoursePDFs/Fiqh001.pdf)
+[Official Notes Fiqh1](Fiqh001.pdf)
 
 # 12.04.2026
 
@@ -56,7 +56,7 @@ ___
 	- الشك لا يبطل الأصل
 	- ഒരുപാട് വെള്ളം ഉണ്ടെങ്കിൽ ചെറിയ രീതിയിലുള്ള നെജസ് അതിൽ കലർന്നിട്ടുണ്ടെങ്കിൽ ആ വെള്ളം മുഴുവനും നജസ് ആവുകയില്ല.
 
-[Official Notes Fiqh2](CoursePDFs/Fiqh002.pdf)
+[Official Notes Fiqh2](Fiqh002.pdf)
 
 # 19.04.2026
 
@@ -89,7 +89,7 @@ ___
 			- ا ശരീരത്തിൽ നിന്ന് വിഭാരം ഇറക്കി തന്നതുപോലെ പാപത്തിന്റെ ഭാരം ഇറക്കി തരാൻ വേണ്ടിയിട്ടാണ് ആ പ്രാർത്ഥന ചൊല്ലുന്നത്.
 
 
-[Official Notes Fiqh3](CoursePDFs/Fiqh003.pdf)
+[Official Notes Fiqh3](Fiqh003.pdf)
 
 # 26.04.2026
 
@@ -118,7 +118,7 @@ ___
 - ഒട്ടകത്തിന് മതമിളകാൻ ചാൻസ് ഉണ്ട് അതുകൊണ്ടാണ് നബി ﷺ വിലക്കിയത്
 	- عن ابن عباس رضي الله عنه قال *طاف النبي صلى الله عليه وسلم في حجه الوداع على بعير يستلم الركن بمحجن*
 
-[Official Notes Fiqh4](CoursePDFs/Fiqh004.pdf)
+[Official Notes Fiqh4](Fiqh004.pdf)
 
 # 02.05.2026
 
@@ -173,3 +173,11 @@ ___
 - **إِنَّ اللَّهَ لاَ يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ** #Hadeeth/Heart #Hadeeth/GoodDeeds 
 ## السواك 
 - **لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ** #Hadeeth/Etiquette/BrushingTeeth #Fiqh/Principle/Wajib/CommandOfProphetﷺ 
+- **عَنْ عَائِشَةَ، أَنَّ النَّبِيَّ صلى الله عليه وسلم كَانَ إِذَا دَخَلَ بَيْتَهُ بَدَأَ بِالسِّوَاكِ** #Hadeeth/Sunnah/WhileEnteringHome #Hadeeth/Etiquette/BrushingTeeth 
+- **السِّوَاكُ مَطْهَرَةٌ لِلْفَمِ مَرْضَاةٌ لِلرَّبِّ** #Hadeeth/Allah/Mercy #Hadeeth/Etiquette/BrushingTeeth #Hadeeth/Goodness/InThisWorldAndHereafter
+	- *فَقَالَ لَهُ : " يَابْنَ أَخِي !ارْفَعْ إِزَارَكَ ، فَإِنَّهُ أَتْقَى لِرَبِّكَ وَأَنْقَى لِثَوْبِكَ "* #Hadeeth/Sahaabah/Umar/SeriousnessOfObeyingAllah #Hadeeth/Goodness/InThisWorldAndHereafter #Hadeeth/Dress/Isbaal 
+## استنشاق الماء
+- മൂക്കിൽ വെള്ളം കേറ്റി ചീറ്റുക
+- മൂക്കിൽ വെള്ളം കേറ്റി പുറത്തുവിടുന്നതിന് ~~استنثار~~ എന്ന് പറയും
+## غسل البراجم
+- ![](Fiqh007_FingerJointsImage.png)

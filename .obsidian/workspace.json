@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "AlFiqh.md",
+                "file": "Aadaab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "AlFiqh"
+              "title": "Aadaab"
             }
           },
           {
@@ -192,13 +192,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AlFiqh.md",
+                "file": "Aadaab.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AlFiqh"
+              "title": "Outline of Aadaab"
             }
           },
           {
@@ -230,16 +230,17 @@
       "templates:Insert template": false
     }
   },
-  "active": "e862b9dac190e1cc",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "Doubts/UmmunaAishaSwearing.md",
     "AlFiqh.md",
+    "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
+    "Doubts/UmmunaAishaSwearing.md",
     "Adhkaar.md",
     "Doubts/RecitingDhikrInsteadOfQuran.md",
     "Aqeedah.md",
     "Doubts/If.md",
     "Templates/DoubtTemplate.md",
-    "CoursePDFs/Adaab001.pdf",
+    "CoursePDFsAndImages/Adaab001.pdf",
     "Doubts/AngelsForMonitoringFetus.md",
     "Doubts/LevelsOfBelievers.md",
     "AlQuran.md",
@@ -251,23 +252,22 @@
     "Templates",
     "Doubts",
     "conflict-files-obsidian-git.md",
-    "CoursePDFs/Aqeeda001.pdf",
+    "CoursePDFsAndImages/Aqeeda001.pdf",
     "Lugah.md",
     "AnNaseeha.md",
     "Ahadeeth.md",
-    "CoursePDFs/HadeethHifd005.pdf",
-    "CoursePDFs/Fiqh003.pdf",
-    "CoursePDFs/Fiqh004.pdf",
-    "CoursePDFs/Fiqh006.pdf",
-    "CoursePDFs/HadeethHifd001.pdf",
-    "CoursePDFs/HadeethHifd003.pdf",
+    "CoursePDFsAndImages/HadeethHifd005.pdf",
+    "CoursePDFsAndImages/Fiqh003.pdf",
+    "CoursePDFsAndImages/Fiqh004.pdf",
+    "CoursePDFsAndImages/Fiqh006.pdf",
+    "CoursePDFsAndImages/HadeethHifd001.pdf",
+    "CoursePDFsAndImages/HadeethHifd003.pdf",
     "Templates/Add Tags.md",
     "2.pdf.md",
     "Maarif/CoursePDFs/Adaab1.pdf.md",
     "Maarif/Arabiy.md",
     "Maarif/AnNaseeha.md",
     "Maarif/AlFiqh.md",
-    "Maarif/Ahadeeth.md",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
     "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",
@@ -277,7 +277,6 @@
     "Pasted image 20260423220153.png",
     "Pasted image 20260423220141.png",
     "Pasted image 20260419180502.png",
-    "Brototype/Intake 2 Notes/Images/Screenshot_2026-04-12-12-41-30-93_254de13a4bc8758c9908fff1f73e3725.jpg",
     "Maarif/Untitled.canvas"
   ]
 }

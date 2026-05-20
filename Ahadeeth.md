@@ -5,7 +5,7 @@
 
 (متّفَقٌ عليه)
 - قال النبي صلى الله عليه وسلم **نضر الله امرا سمع مقالتي فبعاها فاداها كما سمعها فارب مبلغ او عامل سامع**
-[Official Notes of HadeethHifd 1](CoursePDFs/HadeethHifd001.pdf)
+[Official Notes of HadeethHifd 1](HadeethHifd001.pdf)
 
 ‎ 
 ******
@@ -17,7 +17,7 @@
 
 - افضل الاعمال من هؤلاء **علم ينتفع به**
 
-[Official Notes of HadeethHifd 2](CoursePDFs/HadeethHifd002.pdf)
+[Official Notes of HadeethHifd 2](HadeethHifd002.pdf)
 
 ****
 # 19.04.2026
@@ -26,7 +26,7 @@
 
 (سنن ابن ماجه والترمذي وصححه الباني)
 
-[Official Notes of HadeethHifd 3](CoursePDFs/HadeethHifd003.pdf)
+[Official Notes of HadeethHifd 3](HadeethHifd003.pdf)
 
 ****
 # 26.04.2026
@@ -38,7 +38,7 @@
 	- ഈമാനിന്റെ പൂർത്തീകരണത്തിനാണ് 
 	- അല്ലെങ്കിൽ കുറ്റം കിട്ടുന്ന കാര്യം 
 
-[Official Notes of HadeethHifd 4](CoursePDFs/HadeethHifd004.pdf)
+[Official Notes of HadeethHifd 4](HadeethHifd004.pdf)
 
 ****
 # 02.05.2026
