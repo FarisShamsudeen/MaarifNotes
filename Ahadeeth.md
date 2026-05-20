@@ -52,3 +52,6 @@
 [Official Notes of HadeethHifd 6](HadeethHifd006.pdf) #Hadeeth/Etiquette/FoodAndDrinks #Hadeeth/Dhikr/Eating #Hadeeth/Etiquette/StartWithRight #Hadeeth/Dhikr/EatingFood #Hadeeth/Dhikr/Eating/FromNear
 
 ****
+# 17.05.2026
+## يَسِّرُوا وَلاَ تُعَسِّرُوا، وَبَشِّرُوا وَلاَ تُنَفِّرُوا
+- #Hadeeth/Goodness/ToPeople

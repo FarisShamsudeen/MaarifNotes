@@ -71,3 +71,8 @@
 
 [Official Notes Lugah5](Lugah005.pdf)
 
+****
+# 17.05.2026
+
+
+****
