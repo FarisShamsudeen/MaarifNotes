@@ -257,5 +257,23 @@
       ],
       "key": "N"
     }
+  ],
+  "editor:set-heading-0": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "0"
+    }
+  ],
+  "editor:toggle-bullet-list": [
+    {
+      "modifiers": [
+        "Mod",
+        "Shift"
+      ],
+      "key": "-"
+    }
   ]
 }

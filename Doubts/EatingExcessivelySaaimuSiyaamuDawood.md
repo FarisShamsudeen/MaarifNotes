@@ -1,7 +1,7 @@
-Title: {{title}}
-Date: {{date}} | {{time}}
+Title: EatingExcessivelySaaimuSiyaamuDawood
+Date: Wednesday, 20-May-2026 | 12:42:35 PM
 Status: #Doubt/Pending 
-Tags: #Aqeedah/Salafi 
+Tags: #Hadeeth/Etiquette/FoodAndDrinks/NotExcessively 
 
 ****
 # 📍 Source of Doubt
@@ -18,7 +18,7 @@ Tags: #Aqeedah/Salafi
 # 🧠 Doubt
 
 > [!question]
-> Write the exact doubt/question here.
+> സിയാമു ദാവൂദ് നോമ്പു പിടിക്കുന്നവർ സ്ഥിരമായി വയർ നിറച്ചു ഭക്ഷണം കഴിക്കുന്നത് തെറ്റാണോ?
 
 ---
 # ✅ Answer
