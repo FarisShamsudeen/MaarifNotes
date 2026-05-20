@@ -21,6 +21,30 @@
               "icon": "lucide-file",
               "title": "AlFiqh"
             }
+          },
+          {
+            "id": "e541b85f85d08227",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doubts/UmmunaAishaSwearing.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": true,
+                "backlinkOpts": {
+                  "collapseAll": false,
+                  "extraContext": false,
+                  "sortOrder": "alphabetical",
+                  "showSearch": false,
+                  "searchQuery": "",
+                  "backlinkCollapsed": false,
+                  "unlinkedCollapsed": true
+                }
+              },
+              "icon": "lucide-file",
+              "title": "UmmunaAishaSwearing"
+            }
           }
         ]
       }
@@ -194,8 +218,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5,
-    "collapsed": true
+    "width": 236.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -209,6 +232,7 @@
   },
   "active": "e862b9dac190e1cc",
   "lastOpenFiles": [
+    "Doubts/UmmunaAishaSwearing.md",
     "AlFiqh.md",
     "Adhkaar.md",
     "Doubts/RecitingDhikrInsteadOfQuran.md",
@@ -244,7 +268,6 @@
     "Maarif/AnNaseeha.md",
     "Maarif/AlFiqh.md",
     "Maarif/Ahadeeth.md",
-    "Maarif/Aadaab.md",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
     "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",

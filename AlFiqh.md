@@ -161,3 +161,15 @@ ___
 ****
 
 # 17.05.2026
+
+## إِعْفَاءُ اللِّحْيَةِ
+- **أَعْفُوا اللِّحَى ، وَأَحْفُوا الشَّوَارِبَ** #Hadeeth/Etiquette/Beard #Hadeeth/Etiquette/Moustache
+	- ~~الأَمْرُ لِلْوُجُوبِ~~ #Fiqh/Principle/Wajib/CommandOfProphetﷺ 
+- **خَالِفُوا الْمُشْرِكِينَ: أَوْفِرُوا اللِّحَى وَأَحْفُوا الشَّوَارِبَ** #Hadeeth/Imitating/Kuffar #Hadeeth/Etiquette/Beard #Hadeeth/Etiquette/Moustache 
+	- **مَنْ تَشَبَّهَ بِقَوْمٍ فَهُوَ مِنْهُمْ** #Hadeeth/Imitating/Kuffar 
+- **لَعَنَ اللَّهُ الْمُتَشَبِّهِينَ مِنَ الرِّجَالِ بِالنِّسَاءِ والمتشبِّهات من النِّسَاء بِالرِّجَالِ** #Hadeeth/Imitating/Women #Hadeeth/Imitating/Men 
+	- [[UmmunaAishaSwearing]]
+- ==قَالَ يَابنَؤُمَّ لَا تَاخُذ بِلِحيَتِى وَلَا بِرَاسِى== #Surah/Taha #Ayah/Belief/Prophets/HavingBeard 
+- **إِنَّ اللَّهَ لاَ يَنْظُرُ إِلَى صُوَرِكُمْ وَأَمْوَالِكُمْ وَلَكِنْ يَنْظُرُ إِلَى قُلُوبِكُمْ وَأَعْمَالِكُمْ** #Hadeeth/Heart #Hadeeth/GoodDeeds 
+## السواك 
+- **لَوْلاَ أَنْ أَشُقَّ عَلَى أُمَّتِي لأَمَرْتُهُمْ بِالسِّوَاكِ عِنْدَ كُلِّ صَلاَةٍ** #Hadeeth/Etiquette/BrushingTeeth #Fiqh/Principle/Wajib/CommandOfProphetﷺ 
