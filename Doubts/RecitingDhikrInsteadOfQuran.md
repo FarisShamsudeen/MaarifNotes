@@ -1,8 +1,8 @@
 Title: "Reciting Dhikr Instead of Quran?"
 Date: Tuesday, 19-May-2026 04:48:42 PM
-Status: #Doubt/Completed 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Quran #Dhikr 
-
+Enquired to: #Usthad/NiyafBinKhalid 
 
 # 🧠 Doubt
 

@@ -1,7 +1,8 @@
 Title: "Angels for monitoring Fetus"
 Date: Tuesday, 19-May-2026 05:02:58 PM
-Status: #Doubt/Pending 
+Status: #Doubt/Enquired/NotCleared/NotEnquired
 Tags: #Hadeeth/Malaikah 
+Enquired to: #Usthad/NiyafBinKhalid 
 
 
 # 🧠 Doubt

@@ -1,8 +1,8 @@
 Title: "If"
 Date: Tuesday, 19-May-2026 | 05:32:29 PM
-Status: #Doubt/Pending 
+Status: #Doubt/Enquired/Waiting 
 Tags: #Hadeeth/Qadr/DontSayIf 
-
+Enquired to: #Usthad/NiyafBinKhalid 
 
 # 🧠 Doubt
 

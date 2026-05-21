@@ -1,8 +1,8 @@
 Title: "UmmunaAishaSwearing"
 Date: Wednesday, 20-May-2026 | 10:39:14 AM
-Status: #Doubt/Pending 
-Tags: #Aqeedah/Salafi 
-
+Status: #Doubt/Enquired/Waiting 
+Tags: #Hadeeth/Etiquette/Beard 
+Enquired to: #Usthad/NiyafBinKhalid 
 
 # 🧠 Doubt
 

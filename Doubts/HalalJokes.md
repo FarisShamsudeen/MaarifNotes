@@ -1,8 +1,8 @@
 Title: "Halal Jokes"
 Date: Tuesday, 19-May-2026 04:00:03 PM
-Status: #Doubt/Pending 
+Status: #Doubt/Enquired/Waiting 
 Tags: #Jokes
-
+Enquired to: #Usthad/NiyafBinKhalid 
 
 # 🧠 Doubt
 

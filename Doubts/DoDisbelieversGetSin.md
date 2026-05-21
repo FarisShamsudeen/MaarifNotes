@@ -1,8 +1,8 @@
 Title: "DoDisbelieversGetSin"
 Date: Wednesday, 20-May-2026 | 12:13:48 PM
-Status: #Doubt/Pending 
+Status: #Doubt/Enquired/Waiting
 Tags: #People/Hellfire #Hadeeth/Etiquette/FoodAndDrinks/NotExcessively  
-
+Enquired to: #Usthad/NiyafBinKhalid    
 
 # 📍 Source of Doubt
 
@@ -26,7 +26,7 @@ Tags: #People/Hellfire #Hadeeth/Etiquette/FoodAndDrinks/NotExcessively
 ---
 # ✅ Answer
 
-> [!success]
+> [!success] 
 > Final clarified answer here.
 
 ### Answered By

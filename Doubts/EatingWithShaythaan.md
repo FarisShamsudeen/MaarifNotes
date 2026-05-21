@@ -1,8 +1,8 @@
 Title: "Eating with Shaythaan"
 Date: Tuesday, 19-May-2026 04:44:03 PM
-Status: #Doubt/Completed
+Status: #Doubt/Enquired/Cleared
 Tags: #Hadeeth/Dhikr/EatingFood 
-
+Enquired to: #Usthad/NiyafBinKhalid 
 
 # 🧠 Doubt
 

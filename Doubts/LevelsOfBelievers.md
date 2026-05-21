@@ -1,8 +1,8 @@
 Title: "Levels of Believers"
 Date: Tuesday, 19-May-2026 04:56:34 PM
-Status: #Doubt/Completed 
-Tags: #Aqeedah/Salafi 
-
+Status: #Doubt/Enquired/PartiallyCleared/NotEnquired
+Tags: #Believers/Levels
+Enquired to: #Usthad/NiyafBinKhalid 
 
 # 🧠 Doubt
 

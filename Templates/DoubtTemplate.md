@@ -1,48 +1,21 @@
 Title: {{title}}
 Date: {{date}} | {{time}}
-Status: #Doubt/Pending 
-Tags: #Aqeedah/Salafi 
+Status: #Doubt/NotEnquired
+Tags: #
+Enquired to: #Usthad/NiyafBinKhalid 
 
 ****
-# 📍 Source of Doubt
-
-- [x] Class : Maarif Online
-- [ ] Video
-- [ ] Book
-- [ ] Personal Thinking
-- [ ] Speaker/Author
-- [ ] Ayah
-- [ ] Hadeeth
+> [!tldr] Sources of Doubt
+> Ayah / Hadeeth / Principle
 
 ---
-# 🧠 Doubt
-
 > [!question]
 > Write the exact doubt/question here.
 
 ---
-# ✅ Answer
-
-> [!success]
+> [!success] Answered by #Usthad/NiyafBinKhalid 
 > Final clarified answer here.
 
-### Answered By
-- Scholar:
-- Student of Knowledge: #Usthad/NiyafBinKhalid 
-- Book/Article:
-- Date Answered:
-
 ---
-# 📖 Research Notes
-
-## Evidences
-- Qur'an:
-- Hadith:
-- Statements of Scholars:
-- Arabic Terms:
-
-## Related Doubts
-- [[]] 
-
-
-
+# Related Doubts
+- [[]]

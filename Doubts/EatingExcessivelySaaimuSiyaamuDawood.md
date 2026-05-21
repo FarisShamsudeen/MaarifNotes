@@ -1,8 +1,8 @@
 Title: EatingExcessivelySaaimuSiyaamuDawood
 Date: Wednesday, 20-May-2026 | 12:42:35 PM
-Status: #Doubt/Pending 
+Status: #Doubt/Enquired/Waiting 
 Tags: #Hadeeth/Etiquette/FoodAndDrinks/NotExcessively 
-
+Enquired to: #Usthad/NiyafBinKhalid 
 ****
 # 📍 Source of Doubt
 
