@@ -28,13 +28,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aqeedah.md",
+                "file": "AlQuran.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aqeedah"
+              "title": "AlQuran"
             }
           }
         ],
@@ -121,7 +121,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5090675354004
+    "width": 213.50260543823242
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -184,13 +184,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aqeedah.md",
+                "file": "AlQuran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aqeedah"
+              "title": "Outline of AlQuran"
             }
           },
           {
@@ -210,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 236.5
+    "width": 236.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,6 +224,18 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "CoursePDFsAndImages/Quran007.pdf",
+    "CoursePDFsAndImages/Lugah006.pdf",
+    "CoursePDFsAndImages/HadeethHifd007.pdf",
+    "CoursePDFsAndImages/Fiqh007.pdf",
+    "CoursePDFsAndImages/Aqeeda007.pdf",
+    "CoursePDFsAndImages/Adkaar007.pdf",
+    "CoursePDFsAndImages/Adaab007.pdf",
+    "CoursePDFsAndImages/Lugah 6.pdf",
+    "CoursePDFsAndImages/Unconfirmed 624389.crdownload",
+    "CoursePDFsAndImages/Hadeeth Hifd 7.pdf",
+    "CoursePDFsAndImages/Unconfirmed 810983.crdownload",
+    "Aqeedah.md",
     "Adhkaar.md",
     "Templates/DoubtTemplate.md",
     "Doubts/DoDisbelieversGetSin.md",
@@ -240,26 +253,14 @@
     "Doubts/EatingExcessivelyRarely.md",
     "AlFiqh.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
-    "Aqeedah.md",
-    "CoursePDFsAndImages/Adaab001.pdf",
     "AlQuran.md",
     "Doubts.md",
     "Untitled.md",
-    "Templates",
-    "Doubts",
     "conflict-files-obsidian-git.md",
-    "CoursePDFsAndImages/Aqeeda001.pdf",
     "AnNaseeha.md",
-    "CoursePDFsAndImages/HadeethHifd005.pdf",
-    "CoursePDFsAndImages/Fiqh003.pdf",
-    "CoursePDFsAndImages/Fiqh004.pdf",
-    "CoursePDFsAndImages/Fiqh006.pdf",
-    "CoursePDFsAndImages/HadeethHifd001.pdf",
-    "CoursePDFsAndImages/HadeethHifd003.pdf",
     "Templates/Add Tags.md",
     "2.pdf.md",
     "Maarif/CoursePDFs/Adaab1.pdf.md",
-    "Maarif/Arabiy.md",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
     "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",
