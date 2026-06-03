@@ -106,6 +106,7 @@
 	- ശബ്ദമുണ്ടാക്കി മറ്റുള്ളവരെ ബുദ്ധിമുട്ടിച്ച് ചെയ്യുന്നത് മര്യാദയല്ല, പാടില്ലാത്തതാണ്.
 - **إِذَا أَكَلَ أَوْ شَرِبَ قَالَ: «~~الْحَمْدُ لِلَّهِ الَّذِي أَطْعَمَ وَسَقَى وَسَوَّغَهُ وَجَعَلَ لَهُ مخرجا~~»** 
 - ==يَا بَنِي آدَمَ خُذُوا زِينَتَكُمْ عِندَ كُلِّ مَسْجِدٍ وَكُلُوا وَاشْرَبُوا وَلَا تُسْرِفُوا ۚ إِنَّهُ لَا يُحِبُّ الْمُسْرِفِينَ== #Hadeeth/Etiquette/FoodAndDrinks/NotExcessively #Hadeeth/Etiquette/Masjid/WearingNiceClothes 
-- [[DoDisbelieversGetSin]]
-- [[EatingExcessivelySaaimuSiyaamuDawood]] 
+- Doubts
+	- [[DoDisbelieversGetSin]]
+	- [[EatingExcessivelySaaimuSiyaamuDawood]] 
 
