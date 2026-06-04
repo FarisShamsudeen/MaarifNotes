@@ -1,0 +1,21 @@
+1Title: DoesTheHadeesIncludesForSalathuDawood
+Date: Thursday, 04-Jun-2026 | 06:39:29 PM
+Status: #Doubt/NotEnquired
+Tags: #
+Enquired to: #Usthad/NiyafBinKhalid 
+
+****
+> [!tldr] Sources of Doubt
+> مَا مِنْ مُسْلِمٍ يَبِيتُ عَلَى ذِكْرٍ طَاهِرًا فَيَتَعَارُّ مِنَ اللَّيْلِ فَيَسْأَلُ اللَّهَ خَيْرًا مِنَ الدُّنْيَا وَالآخِرَةِ إِلاَّ أَعْطَاهُ إِيَّاهُ
+
+---
+> [!question]
+> ഇത് രാത്രി നമസ്കാരങ്ങൾക്ക് എണീക്കുമ്പോൾ ബാധകമാകുമോ ?
+
+---
+> [!success] Answered by #Usthad/NiyafBinKhalid 
+> Final clarified answer here.
+
+---
+# Related Doubts
+- [[]]
