@@ -69,10 +69,14 @@
 ****
 # 09.05.2026
 
-[Official Notes Lugah5](Lugah005.pdf)
+![Official Notes Lugah5](Lugah005.pdf)
 
 ****
 # 17.05.2026
+![Lugah006](Lugah006.pdf)
 
+****
+# 24.05.2026
 
+![Lugah007](Lugah007.pdf)
 ****

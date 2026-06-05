@@ -8,42 +8,33 @@
         "type": "tabs",
         "children": [
           {
-            "id": "54f41078c6d72975",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "AnNaseeha.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "AnNaseeha"
-            }
-          },
-          {
             "id": "daf3e955c1eb4365",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doubts/TalkingToTheOneWhoIsInSalah.md",
+                "file": "Quran.md",
                 "mode": "source",
                 "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
+                "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "TalkingToTheOneWhoIsInSalah"
+              "title": "Quran"
+            }
+          },
+          {
+            "id": "8a7fedbd69ec9297",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Adkaar.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "Adkaar"
             }
           },
           {
@@ -153,7 +144,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 244.5
+    "width": 238.5
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -257,30 +248,32 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Doubts/MeaningOfMUSTHAJAAB.md",
     "Adkaar.md",
-    "Quran.md",
-    "Lugah.md",
-    "HadeethHifd.md",
-    "Fiqh.md",
-    "Aqeeda.md",
-    "Adaab.md",
-    "Doubts/TalkingToTheOneWhoIsInSalah.md",
     "Doubts/MeaningOfHelpedByTerror.md",
+    "Adaab.md",
+    "AnNaseeha.md",
+    "Aqeeda.md",
+    "Fiqh.md",
+    "HadeethHifd.md",
+    "Lugah.md",
+    "Quran.md",
+    "CoursePDFsAndImages/Quran008.pdf",
+    "CoursePDFsAndImages/Lugah007.pdf",
+    "CoursePDFsAndImages/HadeethHifd008.pdf",
+    "CoursePDFsAndImages/Fiqh008.pdf",
+    "CoursePDFsAndImages/Aqeeda008.pdf",
+    "CoursePDFsAndImages/Adkaar008.pdf",
+    "CoursePDFsAndImages/Adaab008.pdf",
+    "CoursePDFsAndImages/Adkaar 8.pdf",
+    "CoursePDFsAndImages/Unconfirmed 999027.crdownload",
+    "CoursePDFsAndImages/Quran 8.pdf",
+    "Doubts/TalkingToTheOneWhoIsInSalah.md",
     "Doubts/DoesTheHadeesIncludesForSalathuDawood.md",
     "Doubts/SeperateWuduOrWuduTookForIsha.md",
     "Doubts/WeighingUpdatingWuduAndGettingJamaahEarly.md",
     "Doubts/EvidenceOfYaqeenPrinciple.md",
     "Doubts/WisdomBehindNotShowing.md",
-    "CoursePDFsAndImages/Aqeeda006.pdf",
-    "CoursePDFsAndImages/Aqeeda007.pdf",
-    "CoursePDFsAndImages/Aqeeda002.pdf",
-    "CoursePDFsAndImages/Aqeeda001.pdf",
-    "CoursePDFsAndImages/Aqeeda003.pdf",
-    "CoursePDFsAndImages/Aqeeda004.pdf",
-    "CoursePDFsAndImages/Aqeeda005.pdf",
-    "CoursePDFsAndImages/Adaab001.pdf",
-    "CoursePDFsAndImages/Adaab002.pdf",
-    "CoursePDFsAndImages/Adaab003.pdf",
     "Doubts/ProphetsMentionedInAhadeethOutOfQuran.md",
     "Doubts/If.md",
     "Doubts/HalalJokes.md",
@@ -291,8 +284,6 @@
     "Doubts/PunishingChildrenByParents.md",
     "Templates/DoubtTemplate.md",
     "Doubts/UmmunaAishaSwearing.md",
-    "Doubts/RecitingDhikrInsteadOfQuran.md",
-    "Doubts/LevelsOfBelievers.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",

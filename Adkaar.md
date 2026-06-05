@@ -156,4 +156,7 @@
 - പ്രാർത്ഥനയിൽ വിശദാംശങ്ങൾ പറയുന്നത് ശരിയല്ല
 
 - Doubt - [[MeaningOfMUSTHAJAAB]]
+
+[Adkaar008](Adkaar008.pdf)
+
 ****
