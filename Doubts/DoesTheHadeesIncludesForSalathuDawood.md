@@ -1,6 +1,6 @@
 1Title: DoesTheHadeesIncludesForSalathuDawood
 Date: Thursday, 04-Jun-2026 | 06:39:29 PM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Dua/Acceptance 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -14,7 +14,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+>  അതേ, സുബഹിക്ക് മുമ്പ് എണീക്കുമ്പോൾ ഉള്ള കാര്യമാണ് പറഞ്ഞിട്ടുള്ളത്
 
 ---
 # Related Doubts

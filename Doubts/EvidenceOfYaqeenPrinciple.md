@@ -1,6 +1,6 @@
 1Title: EvidenceOfYaqeenPrinciple
 Date: Thursday, 04-Jun-2026 | 03:49:19 PM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Fiqh/Principle/Yaqeen 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -14,7 +14,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> **دَعْ مَا يَرِيبُكَ إِلَى مَا لاَ يَرِيبُكَ** #Hadeeth/Doubts 
+> പോലുള്ള ഒരുപാട് ഹദീസുകളിൽ നിന്ന് പണ്ഡിതന്മാർ استنباط ചെയ്ത് ലഭിച്ചതാണ്.
 
 ---
 # Related Doubts

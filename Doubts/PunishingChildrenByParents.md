@@ -1,6 +1,6 @@
 1Title: PunishingChildrenByParents
 Date: Wednesday, 03-Jun-2026 | 08:07:33 PM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Parenting
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -14,7 +14,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> "അങ്ങനെ استنباط ചെയ്യാൻ പാടില്ല. അല്ലാഹുവിൻറെ മക്കൾ എന്ന് പറയുന്നത് നമ്മളുടെ മക്കൾ എന്ന് പറയുന്നതും രണ്ടും രണ്ടാണ്"
 
 ---
 # Related Doubts

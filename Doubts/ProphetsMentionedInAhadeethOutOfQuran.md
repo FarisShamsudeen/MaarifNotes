@@ -1,7 +1,7 @@
 1Title: ProphetsMentionedInAhadeethOutOfQuran
 Date: Wednesday, 03-Jun-2026 | 09:37:13 PM
-Status: #Doubt/Enquired 
-Tags: #
+Status: #Doubt/Enquired/Cleared 
+Tags: #Hadeeth/Prophets 
 Enquired to: #Usthad/NiyafBinKhalid 
 
 ****
@@ -14,7 +14,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> يوشا ابن النون etc..
 
 ---
 # Related Doubts

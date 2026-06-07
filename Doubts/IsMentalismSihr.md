@@ -1,6 +1,6 @@
 1Title: IsMentalismSihr
 Date: Friday, 05-Jun-2026 | 06:24:57 PM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
 Tags: #Sihr 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -14,7 +14,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> "അതിൻറെ حقيقه എനിക്കറിയില്ലെങ്കിലും അത് شيطانيه ആണെന്നുള്ളത് ظاهر ആണ്. ഒരാളുടെ മനസ്സിലുള്ളത് തന്നെ വേറെ ഒരാൾക്ക് അറിയാമെന്ന് നടിക്കുന്നത് എന്നെ ശരിയല്ല"
 
 ---
 # Related Doubts

@@ -1,6 +1,6 @@
 1Title: WisdomBehindNotShowing
 Date: Thursday, 04-Jun-2026 | 03:16:40 PM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
 Tags: #Hadeeth/Wudu 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -14,7 +14,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> ഞാൻ അതിൻറെ شرح നോക്കിയിട്ടില്ല. മിക്കവാറും തെറ്റിദ്ധാരണ ഉണ്ടാകാതിരിക്കാൻ വേണ്ടിയിട്ടായിരിക്കും ابو هريره رضي الله عنه അങ്ങനെ പറഞ്ഞത്. اللّٰهُ أعْلَمْ 
 
 ---
 # Related Doubts

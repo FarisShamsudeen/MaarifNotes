@@ -1,6 +1,6 @@
 1Title: MeaningOfMUSTHAJAAB
 Date: Friday, 05-Jun-2026 | 11:49:18 AM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
 Tags: #Hadeeth/Dua/Acceptance 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -16,7 +16,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> اللّٰهُ أعْلَمْ 
 
 ---
 # Related Doubts

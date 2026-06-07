@@ -1,7 +1,7 @@
 1Title: TalkingToTheOneWhoIsInSalah
 Date: Friday, 05-Jun-2026 | 09:35:33 AM
-Status: #Doubt/Enquired 
-Tags: #
+Status: #Doubt/Enquired/Cleared 
+Tags: #Hadeeth/Fiqh/Salaah/Prohibition/Speaking 
 Enquired to: #Usthad/NiyafBinKhalid 
 
 ****
@@ -14,7 +14,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> പറയാം തെറ്റില്ല പക്ഷേ തിരിച്ച് നമസ്കരിക്കുന്ന ആൾ സംസാരിക്കരുത്.
 
 ---
 # Related Doubts

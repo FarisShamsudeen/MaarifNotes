@@ -1,6 +1,6 @@
 1Title: WeighingUpdatingWuduAndGettingJamaahEarly
 Date: Thursday, 04-Jun-2026 | 03:52:50 PM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Fiqh/Wudu 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -14,7 +14,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> ജമാഅത്ത് നിസ്കാരം തുടങ്ങിക്കഴിഞ്ഞാൽ അതിനാണ് പ്രാധാന്യം കൊടുക്കേണ്ടത് നമുക്ക് وضوء ഉണ്ടെങ്കിൽ.
 
 ---
 # Related Doubts
