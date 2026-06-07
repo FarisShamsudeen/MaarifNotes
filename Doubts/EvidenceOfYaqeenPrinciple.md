@@ -1,6 +1,6 @@
 1Title: EvidenceOfYaqeenPrinciple
 Date: Thursday, 04-Jun-2026 | 03:49:19 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #Fiqh/Principle/Yaqeen 
 Enquired to: #Usthad/NiyafBinKhalid 
 

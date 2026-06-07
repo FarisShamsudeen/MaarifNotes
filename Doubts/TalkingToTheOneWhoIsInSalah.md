@@ -1,6 +1,6 @@
 1Title: TalkingToTheOneWhoIsInSalah
 Date: Friday, 05-Jun-2026 | 09:35:33 AM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #
 Enquired to: #Usthad/NiyafBinKhalid 
 

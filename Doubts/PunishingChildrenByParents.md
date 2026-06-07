@@ -1,6 +1,6 @@
 1Title: PunishingChildrenByParents
 Date: Wednesday, 03-Jun-2026 | 08:07:33 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #Parenting
 Enquired to: #Usthad/NiyafBinKhalid 
 

@@ -1,6 +1,6 @@
 Title: EatingExcessivelySaaimuSiyaamuDawood
 Date: Wednesday, 20-May-2026 | 12:42:35 PM
-Status: #Doubt/Enquired/Waiting 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Etiquette/FoodAndDrinks/NotExcessively 
 Enquired to: #Usthad/NiyafBinKhalid 
 ****
@@ -25,7 +25,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 # ✅ Answer
 
 > [!success]
-> Final clarified answer here.
+> ചില സന്ദർഭങ്ങളിൽ കഴിക്കുന്നത് കൊണ്ട് തെറ്റില്ല. സഹാബാക്കൾ ചിലപ്പോൾ വയറുനിറച്ച് കഴിച്ചിട്ടുള്ളതായി ഹദീസുകളിൽ സ്ഥിരപ്പെട്ടിട്ടുണ്ട്
 
 ### Answered By
 - Scholar:

@@ -1,6 +1,6 @@
 1Title: ProphetsMentionedInAhadeethOutOfQuran
 Date: Wednesday, 03-Jun-2026 | 09:37:13 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #
 Enquired to: #Usthad/NiyafBinKhalid 
 

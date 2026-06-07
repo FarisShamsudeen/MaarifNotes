@@ -1,7 +1,7 @@
 1Title: DoesTheHadeesIncludesForSalathuDawood
 Date: Thursday, 04-Jun-2026 | 06:39:29 PM
-Status: #Doubt/NotEnquired
-Tags: #
+Status: #Doubt/Enquired 
+Tags: #Hadeeth/Dua/Acceptance 
 Enquired to: #Usthad/NiyafBinKhalid 
 
 ****

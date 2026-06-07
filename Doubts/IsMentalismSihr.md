@@ -1,6 +1,6 @@
 1Title: IsMentalismSihr
 Date: Friday, 05-Jun-2026 | 06:24:57 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #Sihr 
 Enquired to: #Usthad/NiyafBinKhalid 
 

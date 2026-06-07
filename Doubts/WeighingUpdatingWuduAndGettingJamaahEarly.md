@@ -1,16 +1,16 @@
 1Title: WeighingUpdatingWuduAndGettingJamaahEarly
 Date: Thursday, 04-Jun-2026 | 03:52:50 PM
-Status: #Doubt/NotEnquired
-Tags: #
+Status: #Doubt/Enquired 
+Tags: #Hadeeth/Fiqh/Wudu 
 Enquired to: #Usthad/NiyafBinKhalid 
 
 ****
 > [!tldr] Sources of Doubt
-> Ayah / Hadeeth / Principle
+>  عَنِ ابْنِ بُرَيْدَةَ، عَنْ أَبِيهِ، قَالَ كَانَ رَسُولُ اللَّهِ صلى الله عليه وسلم يَتَوَضَّأُ لِكُلِّ صَلاَةٍ فَلَمَّا كَانَ يَوْمُ الْفَتْحِ صَلَّى الصَّلَوَاتِ بِوُضُوءٍ وَاحِدٍ فَقَالَ لَهُ عُمَرُ *فَعَلْتَ شَيْئًا لَمْ تَكُنْ تَفْعَلُهُ* ‏.‏ قَالَ ‏"‏ **عَمْدًا فَعَلْتُهُ يَا عُمَرُ**
 
 ---
 > [!question]
-> Write the exact doubt/question here.
+> എല്ലാ وقتത്തിലും وضوء എടുക്കുന്നത് افضل ആയ سنه ആണല്ലോ. ജമാഅത്ത് നമസ്കാരം തുടങ്ങിക്കഴിഞ്ഞാൽ എന്തിനാണ് മുൻതൂക്കം കൊടുക്കേണ്ടത്? وضوء പുതുക്കുന്നതിനാണോ അതല്ല ജമാഅത്തിന് ചേരുന്നതിനാണോ?
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 

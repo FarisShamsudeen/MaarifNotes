@@ -1,6 +1,6 @@
 1Title: WisdomBehindNotShowing
 Date: Thursday, 04-Jun-2026 | 03:16:40 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #Hadeeth/Wudu 
 Enquired to: #Usthad/NiyafBinKhalid 
 

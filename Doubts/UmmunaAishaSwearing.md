@@ -1,6 +1,6 @@
 Title: "UmmunaAishaSwearing"
 Date: Wednesday, 20-May-2026 | 10:39:14 AM
-Status: #Doubt/Enquired/Waiting 
+Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
 Tags: #Hadeeth/Etiquette/Beard 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -26,7 +26,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 # ✅ Answer
 
 > [!success]
-> Final clarified answer here.
+> اللّٰهُ أعْلَمْ 
 
 ### Answered By
 - Scholar:

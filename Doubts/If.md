@@ -1,6 +1,6 @@
 Title: "If"
 Date: Tuesday, 19-May-2026 | 05:32:29 PM
-Status: #Doubt/Enquired/Waiting 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Qadr/DontSayIf 
 Enquired to: #Usthad/NiyafBinKhalid 
 
@@ -24,7 +24,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 # ✅ Answer
 
 > [!success]
-> Final clarified answer here.
+> എല്ലാ സമയത്തും പറയുന്നത് തെറ്റല്ല. അല്ലാഹുവിൻറെ വിധിയെ മോശമായി ചിന്തയോടുകൂടി സംസാരിക്കുമ്പോഴാണ് തെറ്റാകുന്നത്.
 
 ### Answered By
 - Scholar:

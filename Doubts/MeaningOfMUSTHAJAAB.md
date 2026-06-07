@@ -1,6 +1,6 @@
 1Title: MeaningOfMUSTHAJAAB
 Date: Friday, 05-Jun-2026 | 11:49:18 AM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #Hadeeth/Dua/Acceptance 
 Enquired to: #Usthad/NiyafBinKhalid 
 

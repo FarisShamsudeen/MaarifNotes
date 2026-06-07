@@ -1,6 +1,6 @@
 1Title: SeperateWuduOrWuduTookForIsha
 Date: Thursday, 04-Jun-2026 | 06:38:12 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #
 Enquired to: #Usthad/NiyafBinKhalid 
 

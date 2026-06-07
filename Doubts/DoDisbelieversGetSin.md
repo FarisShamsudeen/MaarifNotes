@@ -1,6 +1,6 @@
 Title: "DoDisbelieversGetSin"
 Date: Wednesday, 20-May-2026 | 12:13:48 PM
-Status: #Doubt/Enquired/Waiting
+Status: #Doubt/Enquired/Cleared 
 Tags: #People/Hellfire #Hadeeth/Etiquette/FoodAndDrinks/NotExcessively  
 Enquired to: #Usthad/NiyafBinKhalid    
 
@@ -27,7 +27,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 # ✅ Answer
 
 > [!success] 
-> Final clarified answer here.
+> It doesn't comes under Waajib because it have become a Sunnah because Prophet ﷺ gave the Sahaabas like Abu Hurairah رَضِيَ اللّٰهُ عَنْهُ the Milk full stomach.
 
 ### Answered By
 - Scholar:
