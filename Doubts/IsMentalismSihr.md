@@ -1,4 +1,4 @@
-1Title: IsMentalismSihr
+Title: IsMentalismSihr
 Date: Friday, 05-Jun-2026 | 06:24:57 PM
 Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
 Tags: #Sihr 

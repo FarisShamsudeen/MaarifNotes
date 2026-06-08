@@ -1,4 +1,4 @@
-1Title: WisdomBehindNotShowing
+Title: WisdomBehindNotShowing
 Date: Thursday, 04-Jun-2026 | 03:16:40 PM
 Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
 Tags: #Hadeeth/Wudu 

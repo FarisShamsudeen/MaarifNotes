@@ -1,4 +1,4 @@
-1Title: EvidenceOfYaqeenPrinciple
+Title: EvidenceOfYaqeenPrinciple
 Date: Thursday, 04-Jun-2026 | 03:49:19 PM
 Status: #Doubt/Enquired/Cleared 
 Tags: #Fiqh/Principle/Yaqeen 

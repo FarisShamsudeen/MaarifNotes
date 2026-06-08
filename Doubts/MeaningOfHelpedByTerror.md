@@ -1,4 +1,4 @@
-1Title: MeaningOfHelpedByTerror
+Title: MeaningOfHelpedByTerror
 Date: Thursday, 04-Jun-2026 | 10:20:32 PM
 Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/PlacingFearInTheHeartOfDisbelievers

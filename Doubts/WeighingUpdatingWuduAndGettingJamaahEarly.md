@@ -1,4 +1,4 @@
-1Title: WeighingUpdatingWuduAndGettingJamaahEarly
+Title: WeighingUpdatingWuduAndGettingJamaahEarly
 Date: Thursday, 04-Jun-2026 | 03:52:50 PM
 Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Fiqh/Wudu 

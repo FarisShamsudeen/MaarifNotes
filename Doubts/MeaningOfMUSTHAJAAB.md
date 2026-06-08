@@ -1,4 +1,4 @@
-1Title: MeaningOfMUSTHAJAAB
+Title: MeaningOfMUSTHAJAAB
 Date: Friday, 05-Jun-2026 | 11:49:18 AM
 Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
 Tags: #Hadeeth/Dua/Acceptance 

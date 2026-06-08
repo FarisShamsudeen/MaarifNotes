@@ -1,4 +1,4 @@
-1Title: ProphetsMentionedInAhadeethOutOfQuran
+Title: ProphetsMentionedInAhadeethOutOfQuran
 Date: Wednesday, 03-Jun-2026 | 09:37:13 PM
 Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Prophets 

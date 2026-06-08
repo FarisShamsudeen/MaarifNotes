@@ -1,4 +1,4 @@
-1Title: DoesTheHadeesIncludesForSalathuDawood
+Title: DoesTheHadeesIncludesForSalathuDawood
 Date: Thursday, 04-Jun-2026 | 06:39:29 PM
 Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Dua/Acceptance 

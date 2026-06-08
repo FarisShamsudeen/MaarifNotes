@@ -1,4 +1,4 @@
-1Title: PunishingChildrenByParents
+Title: PunishingChildrenByParents
 Date: Wednesday, 03-Jun-2026 | 08:07:33 PM
 Status: #Doubt/Enquired/Cleared 
 Tags: #Parenting

@@ -1,4 +1,4 @@
-1Title: TalkingToTheOneWhoIsInSalah
+Title: TalkingToTheOneWhoIsInSalah
 Date: Friday, 05-Jun-2026 | 09:35:33 AM
 Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Fiqh/Salaah/Prohibition/Speaking 
