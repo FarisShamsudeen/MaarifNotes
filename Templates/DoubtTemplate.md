@@ -1,4 +1,4 @@
-1Title: {{title}}
+Title: {{title}}
 Date: {{date}} | {{time}}
 Status: #Doubt/NotEnquired
 Tags: #
