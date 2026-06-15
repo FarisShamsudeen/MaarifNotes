@@ -110,7 +110,7 @@
 	- [[DoDisbelieversGetSin]]
 	- [[EatingExcessivelySaaimuSiyaamuDawood]] 
 
-
+[Adaab007](Adaab007.pdf)
 # 24.05.2026
 ## آداب الكلام
 - ==وَاقصِد فِى مَشيِكَ وَاغضُض مِن صَوتِكَ​ؕ اِنَّ اَنكَرَ الاَصوَاتِ لَصَوتُ الحَمِيرِ== #Surah/Luqman #Ayah/Advice/LoweringVoice #Ayah/Advice/ModerateInWalk 
@@ -120,4 +120,6 @@
 - **مَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلاَ يُؤْذِ جَارَهُ، وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيُكْرِمْ ضَيْفَهُ، ~~وَمَنْ كَانَ يُؤْمِنُ بِاللَّهِ وَالْيَوْمِ الآخِرِ فَلْيَقُلْ خَيْرًا أَوْ لِيَصْمُتْ~~** #Hadeeth/Talking #Hadeeth/Rights/ToNeighbours #Hadeeth/Rights/ToGuests 
 - *ബുദ്ധിയുള്ളവന്റെ ഹൃദയം നാവിന് പിന്നിലായിരിക്കും ബുദ്ധി ഇല്ലാത്തവന്റെ ഹൃദയം നാവിനു മുന്നിലായിരിക്കും*
 - ==مَا يَلفِظُ مِن قَولٍ اِلَّا لَدَيهِ رَقِيبٌ عَتِيدٌ‏== #Surah/Qaf #Ayah/Belief/Angels/WritingOurSpeeches 
+
+[Adaab008](Adaab008.pdf)
 ****

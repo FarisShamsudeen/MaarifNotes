@@ -1,8 +1,8 @@
 Title: "Angels for monitoring Fetus"
 Date: Tuesday, 19-May-2026 05:02:58 PM
-Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded
+Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded/Enquired/Cleared
 Tags: #Hadeeth/Malaikah 
-Enquired to: #Usthad/NiyafBinKhalid 
+Enquired to: #Usthad/NiyafBinKhalid #Usthad/HamrasBinHaris 
 
 
 # 🧠 Doubt
@@ -23,14 +23,11 @@ Enquired to: #Usthad/NiyafBinKhalid
 ---
 # ✅ Answer
 
-> [!success]
+> [!success] Student of Knowledge: #Usthad/NiyafBinKhalid 
 > الله اعلم
 
-### Answered By
-- Scholar:
-- Student of Knowledge: #Usthad/NiyafBinKhalid 
-- Book/Article:
-- Date Answered:
+> [!success] Student of Knowledge: #Usthad/HamrasBinHaris
+> ഗർഭസ്ഥ ശിശുവിൻറെ അവസ്ഥ എവിടം വരെ എത്തി എന്നതാണ് അല്ലാഹുവിനോട് മലക്ക് പറയുന്നത്.
 
 ---
 # 📖 Research Notes

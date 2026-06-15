@@ -1,8 +1,8 @@
 Title: WisdomBehindNotShowing
 Date: Thursday, 04-Jun-2026 | 03:16:40 PM
-Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded 
+Status: #Doubt/Enquired/NotCleared/ReEnquiryNeeded/Enquired/Cleared 
 Tags: #Hadeeth/Wudu 
-Enquired to: #Usthad/NiyafBinKhalid 
+Enquired to: #Usthad/NiyafBinKhalid #Sheikh/AbdulAzizBinAbdullahAlRajihi 
 
 ****
 > [!tldr] Sources of Doubt
@@ -15,6 +15,11 @@ Enquired to: #Usthad/NiyafBinKhalid
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
 > ഞാൻ അതിൻറെ شرح നോക്കിയിട്ടില്ല. മിക്കവാറും തെറ്റിദ്ധാരണ ഉണ്ടാകാതിരിക്കാൻ വേണ്ടിയിട്ടായിരിക്കും ابو هريره رضي الله عنه അങ്ങനെ പറഞ്ഞത്. اللّٰهُ أعْلَمْ 
+
+> [!success] Answered by #Sheikh/AbdulAzizBinAbdullahAlRajihi
+> فـ أبو هريرة رضي الله عنه يقول: سمعت النبي صلى الله عليه وسلم يقول: (تبلغ حلية المؤمن حيث يبلغ الوضوء) أي: أن حلية الذهب الذي يتحلى به في يديه تصل إلى ما يصل إليه الوضوء، فاجتهد أبو هريرة وأراد أن يطول، فبدل أن يغسل يديه إلى المرفقين جعل الغسل إلى الإبط؛ حتى تزيد الحلية، وهذا اجتهاد منه، وكذلك في غسل الرجلين إلى الكعبين في الوضوء، فقد كان يجاوز الكعب إلى قريب من الركبة؛ حتى تزيد الحلية.
+ولهذا لما رآه بعض الناس وأنكر عليه قال: أنتم هنا يا ابن فروخ؟! لو علمت أنكم هاهنا ما توضأت هذا الوضوء؛ لأنه بناه على الاجتهاد، والصواب أن غسل اليد لا يتجاوز المرفق، وإنما يعمل بالسنة، وقد ثبت أن النبي صلى الله عليه وسلم كان يجري الماء على مرفقيه ولا يصل إلى الإبط، وكذلك الرِّجل، فيغسل الكعبين ولا يتجاوزهما، وإنما هذا اجتهاد من أبي هريرة رضي الله عنه.
+[Link to the Explanation of the Sheikh](https://shamela.ws/book/37016/258#:~:text=%D9%81%D9%80%20%D8%A3%D8%A8%D9%88%20%D9%87%D8%B1%D9%8A%D8%B1%D8%A9,%D8%B1%D8%B6%D9%8A%20%D8%A7%D9%84%D9%84%D9%87%20%D8%B9%D9%86%D9%87.)
 
 ---
 # Related Doubts

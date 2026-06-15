@@ -4,11 +4,11 @@
     "type": "split",
     "children": [
       {
-        "id": "89e1d8857dd5d243",
+        "id": "b86c156bb57db1e8",
         "type": "tabs",
         "children": [
           {
-            "id": "daf3e955c1eb4365",
+            "id": "70d199c88beba6a3",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -20,69 +20,6 @@
               },
               "icon": "lucide-file",
               "title": "Aqeeda"
-            }
-          },
-          {
-            "id": "b06d7b2e60979e44",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doubts/IsMentalismSihr.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "IsMentalismSihr"
-            }
-          },
-          {
-            "id": "8a7fedbd69ec9297",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Adkaar.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "Adkaar"
-            }
-          },
-          {
-            "id": "62aa3db66db426ce",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doubts/MeaningOfHelpedByTerror.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": true,
-                "backlinkOpts": {
-                  "collapseAll": false,
-                  "extraContext": false,
-                  "sortOrder": "alphabetical",
-                  "showSearch": false,
-                  "searchQuery": "",
-                  "backlinkCollapsed": false,
-                  "unlinkedCollapsed": true
-                }
-              },
-              "icon": "lucide-file",
-              "title": "MeaningOfHelpedByTerror"
             }
           }
         ]
@@ -179,25 +116,6 @@
         "type": "tabs",
         "children": [
           {
-            "id": "7d3eb314a60c9ce2",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "Adhkaar.md",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Adhkaar"
-            }
-          },
-          {
             "id": "67c8bd207679cc9e",
             "type": "leaf",
             "state": {
@@ -231,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adhkaar.md",
+                "file": "Aqeeda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adhkaar"
+              "title": "Outline of Aqeeda"
             }
           },
           {
@@ -246,14 +164,33 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Aqeedah.md"
+                "file": "Aqeeda.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Aqeedah"
+              "title": "File properties for Aqeeda"
+            }
+          },
+          {
+            "id": "bb12eb248fe8135c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Aqeeda.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Aqeeda"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "horizontal",
@@ -272,42 +209,41 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "AnNaseeha.md",
     "Quran.md",
-    "Doubts/IsMentalismSihr.md",
-    "Doubts/MeaningOfMUSTHAJAAB.md",
-    "Adkaar.md",
-    "Doubts/MeaningOfHelpedByTerror.md",
-    "Adaab.md",
-    "Aqeeda.md",
-    "Fiqh.md",
-    "HadeethHifd.md",
+    "CoursePDFsAndImages/Quran009.pdf",
+    "CoursePDFsAndImages/Quran010.pdf",
+    "CoursePDFsAndImages/HadeethHifd009.pdf",
+    "CoursePDFsAndImages/HadeethHifd010.pdf",
+    "CoursePDFsAndImages/Fiqh009.pdf",
+    "CoursePDFsAndImages/Fiqh010.pdf",
+    "CoursePDFsAndImages/Aqeeda009.pdf",
+    "CoursePDFsAndImages/Aqeeda010.pdf",
+    "CoursePDFsAndImages/Adkaar009.pdf",
+    "CoursePDFsAndImages/Adkaar010.pdf",
     "Lugah.md",
-    "CoursePDFsAndImages/Quran008.pdf",
-    "CoursePDFsAndImages/Lugah007.pdf",
-    "CoursePDFsAndImages/HadeethHifd008.pdf",
-    "CoursePDFsAndImages/Fiqh008.pdf",
-    "CoursePDFsAndImages/Aqeeda008.pdf",
-    "CoursePDFsAndImages/Adkaar008.pdf",
-    "CoursePDFsAndImages/Adaab008.pdf",
-    "CoursePDFsAndImages/Adkaar 8.pdf",
-    "CoursePDFsAndImages/Unconfirmed 999027.crdownload",
-    "CoursePDFsAndImages/Quran 8.pdf",
-    "Doubts/TalkingToTheOneWhoIsInSalah.md",
-    "Doubts/DoesTheHadeesIncludesForSalathuDawood.md",
-    "Doubts/SeperateWuduOrWuduTookForIsha.md",
-    "Doubts/WeighingUpdatingWuduAndGettingJamaahEarly.md",
-    "Doubts/EvidenceOfYaqeenPrinciple.md",
+    "Adkaar.md",
+    "Adaab.md",
+    "Doubts/MeaningOfHelpedByTerror.md",
+    "Doubts/IsMentalismSihr.md",
+    "Fiqh.md",
+    "Aqeeda.md",
+    "Doubts/AngelsForMonitoringFetus.md",
     "Doubts/WisdomBehindNotShowing.md",
-    "Doubts/ProphetsMentionedInAhadeethOutOfQuran.md",
+    "Doubts/WeighingUpdatingWuduAndGettingJamaahEarly.md",
+    "Doubts/UmmunaAishaSwearing.md",
+    "Doubts/TalkingToTheOneWhoIsInSalah.md",
+    "Doubts/SeperateWuduOrWuduTookForIsha.md",
+    "Doubts/RecitingDhikrInsteadOfQuran.md",
+    "Doubts/PunishingChildrenByParents.md",
+    "Doubts/MeaningOfMUSTHAJAAB.md",
+    "Doubts/LevelsOfBelievers.md",
     "Doubts/If.md",
     "Doubts/HalalJokes.md",
+    "Doubts/EvidenceOfYaqeenPrinciple.md",
     "Doubts/EatingWithShaythaan.md",
     "Doubts/EatingExcessivelySaaimuSiyaamuDawood.md",
+    "Doubts/DoesTheHadeesIncludesForSalathuDawood.md",
     "Doubts/DoDisbelieversGetSin.md",
-    "Doubts/AngelsForMonitoringFetus.md",
-    "Doubts/PunishingChildrenByParents.md",
-    "Templates/DoubtTemplate.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
