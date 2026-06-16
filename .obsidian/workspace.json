@@ -13,13 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Aqeeda.md",
+                "file": "Fiqh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Aqeeda"
+              "title": "Fiqh"
+            }
+          },
+          {
+            "id": "4de49dc0229c3af4",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Doubts/EvidenceForDoingConnected.md",
+                "mode": "source",
+                "source": false,
+                "backlinks": false
+              },
+              "icon": "lucide-file",
+              "title": "EvidenceForDoingConnected"
             }
           }
         ]
@@ -54,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#HAdeeth/Purity",
+                "query": "tag:#Ayah/Fiqh/Wudu/Waajibaath",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -209,6 +224,12 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Doubts/EvidenceForDoingConnected.md",
+    "Fiqh.md",
+    "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
+    "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
+    "Aqeeda.md",
+    "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
     "Quran.md",
     "CoursePDFsAndImages/Quran009.pdf",
     "CoursePDFsAndImages/Quran010.pdf",
@@ -225,8 +246,6 @@
     "Adaab.md",
     "Doubts/MeaningOfHelpedByTerror.md",
     "Doubts/IsMentalismSihr.md",
-    "Fiqh.md",
-    "Aqeeda.md",
     "Doubts/AngelsForMonitoringFetus.md",
     "Doubts/WisdomBehindNotShowing.md",
     "Doubts/WeighingUpdatingWuduAndGettingJamaahEarly.md",
@@ -241,9 +260,6 @@
     "Doubts/HalalJokes.md",
     "Doubts/EvidenceOfYaqeenPrinciple.md",
     "Doubts/EatingWithShaythaan.md",
-    "Doubts/EatingExcessivelySaaimuSiyaamuDawood.md",
-    "Doubts/DoesTheHadeesIncludesForSalathuDawood.md",
-    "Doubts/DoDisbelieversGetSin.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
