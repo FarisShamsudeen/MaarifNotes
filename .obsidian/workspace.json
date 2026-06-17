@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adaab.md",
+                "file": "Adkaar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adaab"
+              "title": "Adkaar"
             }
           },
           {
@@ -69,7 +69,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Hadees",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Aqeeda.md",
+                "file": "Adkaar.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Aqeeda"
+              "title": "Outline of Adkaar"
             }
           },
           {
@@ -224,15 +224,16 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
+    "Quran.md",
+    "Adkaar.md",
     "Adaab.md",
     "Fiqh.md",
+    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
     "Doubts/EvidenceForDoingConnected.md",
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
     "Aqeeda.md",
     "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
-    "Quran.md",
     "CoursePDFsAndImages/Quran009.pdf",
     "CoursePDFsAndImages/Quran010.pdf",
     "CoursePDFsAndImages/HadeethHifd009.pdf",
@@ -244,7 +245,6 @@
     "CoursePDFsAndImages/Adkaar009.pdf",
     "CoursePDFsAndImages/Adkaar010.pdf",
     "Lugah.md",
-    "Adkaar.md",
     "Doubts/MeaningOfHelpedByTerror.md",
     "Doubts/IsMentalismSihr.md",
     "Doubts/AngelsForMonitoringFetus.md",
