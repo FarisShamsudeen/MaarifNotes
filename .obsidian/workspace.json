@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adkaar.md",
+                "file": "AnNaseeha.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adkaar"
+              "title": "AnNaseeha"
             }
           },
           {
@@ -164,13 +164,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adkaar.md",
+                "file": "AnNaseeha.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adkaar"
+              "title": "Outline of AnNaseeha"
             }
           },
           {
@@ -224,15 +224,16 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Aqeeda.md",
     "Quran.md",
+    "HadeethHifd.md",
+    "Fiqh.md",
     "Adkaar.md",
     "Adaab.md",
-    "Fiqh.md",
     "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
     "Doubts/EvidenceForDoingConnected.md",
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
-    "Aqeeda.md",
     "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
     "CoursePDFsAndImages/Quran009.pdf",
     "CoursePDFsAndImages/Quran010.pdf",
@@ -259,7 +260,6 @@
     "Doubts/LevelsOfBelievers.md",
     "Doubts/If.md",
     "Doubts/HalalJokes.md",
-    "Doubts/EvidenceOfYaqeenPrinciple.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
