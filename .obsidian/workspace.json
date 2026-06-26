@@ -28,16 +28,17 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
+                "file": "Quran.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "WhyDidUmarSeekForgiveForAbuBakkr"
+              "title": "Quran"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -69,7 +70,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Hadees",
+                "query": "tag:#Doubt/NotEnquired",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -164,13 +165,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "AnNaseeha.md",
+                "file": "Quran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of AnNaseeha"
+              "title": "Outline of Quran"
             }
           },
           {
@@ -209,8 +210,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
-    "collapsed": true
+    "width": 319.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -224,13 +224,15 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Doubts/PrayingForBlessingForKuffar.md",
     "Aqeeda.md",
+    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
+    "AnNaseeha.md",
     "Quran.md",
     "HadeethHifd.md",
     "Fiqh.md",
     "Adkaar.md",
     "Adaab.md",
-    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
     "Doubts/EvidenceForDoingConnected.md",
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
@@ -258,8 +260,6 @@
     "Doubts/PunishingChildrenByParents.md",
     "Doubts/MeaningOfMUSTHAJAAB.md",
     "Doubts/LevelsOfBelievers.md",
-    "Doubts/If.md",
-    "Doubts/HalalJokes.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
