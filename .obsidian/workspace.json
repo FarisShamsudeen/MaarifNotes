@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adaab.md",
+                "file": "Lugah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adaab"
+              "title": "Lugah"
             }
           }
         ]
@@ -54,12 +54,12 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Doubt/NotEnquired",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
-                "sortOrder": "alphabetical"
+                "sortOrder": "byModifiedTime"
               },
               "icon": "lucide-search",
               "title": "Search"
@@ -121,12 +121,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adhkaar.md",
+                "file": "Lugah.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Adhkaar"
+              "title": "Outgoing links from Lugah"
             }
           },
           {
@@ -149,13 +149,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Fiqh.md",
+                "file": "Lugah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Fiqh"
+              "title": "Outline of Lugah"
             }
           },
           {
@@ -176,7 +176,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Aqeeda.md",
+                "file": "Lugah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,7 +186,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Aqeeda"
+              "title": "Backlinks for Lugah"
             }
           }
         ],
@@ -209,6 +209,20 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "HadeethHifd.md",
+    "Fiqh.md",
+    "Adkaar.md",
+    "CoursePDFs/Pasted image 20260627123705.png",
+    "CoursePDFs/Pasted image 20260627123608.png",
+    "CoursePDFs/Pasted image 20260627123451.png",
+    "CoursePDFs/Pasted image 20260627123413.png",
+    "CoursePDFs",
+    "Adaab.md",
+    "Doubts/DidIbrahimPrayedTheSame.md",
+    "Quran.md",
+    "Doubts/LimitsOfPrayingForDisbelievers.md",
+    "Doubts/PrayingForBlessingForKuffar.md",
+    "CoursePDFsAndImages/Adaab010.pdf",
     "CoursePDFsAndImages/Quran012.pdf",
     "CoursePDFsAndImages/Quran011.pdf",
     "CoursePDFsAndImages/Lugah009.pdf",
@@ -217,24 +231,14 @@
     "CoursePDFsAndImages/HadeethHifd011.pdf",
     "CoursePDFsAndImages/Fiqh012.pdf",
     "CoursePDFsAndImages/Fiqh011.pdf",
-    "CoursePDFsAndImages/Aqeeda012.pdf",
-    "CoursePDFsAndImages/Aqeeda011.pdf",
-    "CoursePDFsAndImages/Adkaar012.pdf",
     "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
-    "Adaab.md",
-    "Fiqh.md",
     "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
     "Doubts/HowDidScholarsExplainedThatLegIsToBeWashed.md",
     "Aqeeda.md",
     "AnNaseeha.md",
     "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
     "Doubts/DoAshaabAnythingWrongAfterProphetDied.md",
-    "Quran.md",
-    "Doubts/DidIbrahimPrayedTheSame.md",
-    "Doubts/PrayingForBlessingForKuffar.md",
     "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
-    "HadeethHifd.md",
-    "Adkaar.md",
     "Doubts/EvidenceForDoingConnected.md",
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
@@ -244,17 +248,12 @@
     "Doubts/IsMentalismSihr.md",
     "Doubts/AngelsForMonitoringFetus.md",
     "Doubts/WisdomBehindNotShowing.md",
-    "Doubts/WeighingUpdatingWuduAndGettingJamaahEarly.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
     "Maarif/maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",
     "Maarif/site-lib/media/favicon.png",
     "Maarif/site-lib/media/6155340132a851f6089e.svg",
-    "Maarif/site-lib/media/2308ab1944a6bfa5c5b8.svg",
-    "Pasted image 20260423220153.png",
-    "Pasted image 20260423220141.png",
-    "Pasted image 20260419180502.png",
     "Maarif/Untitled.canvas"
   ]
 }
