@@ -13,16 +13,29 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugah.md",
+                "file": "Adkaar.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lugah"
+              "title": "Adkaar"
+            }
+          },
+          {
+            "id": "8729fe21faae4507",
+            "type": "leaf",
+            "state": {
+              "type": "pdf",
+              "state": {
+                "file": "CoursePDFsAndImages/Adkaar010.pdf"
+              },
+              "icon": "lucide-file-text",
+              "title": "Adkaar010"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -121,12 +134,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Lugah.md",
+                "file": "CoursePDFsAndImages/Adkaar010.pdf",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Lugah"
+              "title": "Outgoing links from Adkaar010"
             }
           },
           {
@@ -149,13 +162,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Lugah.md",
+                "file": "CoursePDFsAndImages/Adkaar010.pdf",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Lugah"
+              "title": "Outline of Adkaar010"
             }
           },
           {
@@ -176,7 +189,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Lugah.md",
+                "file": "CoursePDFsAndImages/Adkaar010.pdf",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -186,11 +199,11 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Lugah"
+              "title": "Backlinks for Adkaar010"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -209,13 +222,14 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "CoursePDFsAndImages/Adkaar010_DuaForms1.png",
+    "CoursePDFsAndImages/Adkaar010_DuaForms4.png",
+    "CoursePDFsAndImages/Adkaar010_DuaForms3.png",
+    "CoursePDFsAndImages/Adkaar010_DuaForms2.png",
+    "Adkaar.md",
+    "Lugah.md",
     "HadeethHifd.md",
     "Fiqh.md",
-    "Adkaar.md",
-    "CoursePDFs/Pasted image 20260627123705.png",
-    "CoursePDFs/Pasted image 20260627123608.png",
-    "CoursePDFs/Pasted image 20260627123451.png",
-    "CoursePDFs/Pasted image 20260627123413.png",
     "CoursePDFs",
     "Adaab.md",
     "Doubts/DidIbrahimPrayedTheSame.md",
@@ -243,7 +257,6 @@
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
     "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
-    "Lugah.md",
     "Doubts/MeaningOfHelpedByTerror.md",
     "Doubts/IsMentalismSihr.md",
     "Doubts/AngelsForMonitoringFetus.md",

@@ -12,7 +12,7 @@
     "margin": "1",
     "downscalePercent": 100
   },
-  "attachmentFolderPath": "CoursePDFs",
+  "attachmentFolderPath": "CoursePDFsAndImages",
   "useMarkdownLinks": true,
   "showInlineTitle": true,
   "readableLineLength": true,
