@@ -1,7 +1,7 @@
 Title: WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib
 Date: Friday, 26-Jun-2026 | 06:33:05 PM
-Status: #Doubt/NotEnquired
-Tags: #
+Status: #Doubt/Enquired
+Tags: #Hadeeth/Fiqh/Wudu 
 Enquired to: #Usthad/NiyafBinKhalid 
 
 ****

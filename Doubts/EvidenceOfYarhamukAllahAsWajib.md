@@ -1,6 +1,6 @@
 Title: EvidenceOfYarhamukAllahAsWajib
 Date: Saturday, 27-Jun-2026 | 07:24:42 AM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired
 Tags: #Hadeeth/Etiquette/Sneezing 
 Enquired to: #Usthad/NiyafBinKhalid 
 

@@ -4,38 +4,25 @@
     "type": "split",
     "children": [
       {
-        "id": "b86c156bb57db1e8",
+        "id": "e7f946dc0303ae78",
         "type": "tabs",
         "children": [
           {
-            "id": "70d199c88beba6a3",
+            "id": "678e5d4a9381c809",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adkaar.md",
+                "file": "Adaab.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adkaar"
-            }
-          },
-          {
-            "id": "8729fe21faae4507",
-            "type": "leaf",
-            "state": {
-              "type": "pdf",
-              "state": {
-                "file": "CoursePDFsAndImages/Adkaar010.pdf"
-              },
-              "icon": "lucide-file-text",
-              "title": "Adkaar010"
+              "title": "Adaab"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -67,7 +54,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#Doubt/NotEnquired",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -118,7 +105,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 238.5
+    "width": 299.5
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -129,17 +116,51 @@
         "type": "tabs",
         "children": [
           {
+            "id": "a229d51e94f9197b",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Adaab.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Adaab"
+            }
+          },
+          {
+            "id": "bb12eb248fe8135c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Adaab.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Adaab"
+            }
+          },
+          {
             "id": "67c8bd207679cc9e",
             "type": "leaf",
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "CoursePDFsAndImages/Adkaar010.pdf",
+                "file": "Adaab.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Adkaar010"
+              "title": "Outgoing links from Adaab"
             }
           },
           {
@@ -157,57 +178,22 @@
             }
           },
           {
-            "id": "a229d51e94f9197b",
-            "type": "leaf",
-            "state": {
-              "type": "outline",
-              "state": {
-                "file": "CoursePDFsAndImages/Adkaar010.pdf",
-                "followCursor": false,
-                "showSearch": false,
-                "searchQuery": ""
-              },
-              "icon": "lucide-list",
-              "title": "Outline of Adkaar010"
-            }
-          },
-          {
             "id": "0178518f12bd7186",
             "type": "leaf",
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Aqeeda.md"
+                "file": "Adaab.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Aqeeda"
-            }
-          },
-          {
-            "id": "bb12eb248fe8135c",
-            "type": "leaf",
-            "state": {
-              "type": "backlink",
-              "state": {
-                "file": "CoursePDFsAndImages/Adkaar010.pdf",
-                "collapseAll": false,
-                "extraContext": false,
-                "sortOrder": "alphabetical",
-                "showSearch": false,
-                "searchQuery": "",
-                "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
-              },
-              "icon": "links-coming-in",
-              "title": "Backlinks for Adkaar010"
+              "title": "File properties for Adaab"
             }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 319.5,
+    "width": 278.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -216,25 +202,36 @@
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
       "templates:Insert template": false,
-      "webpage-html-export:Export as HTML": false,
       "obsidian-git:Open Git source control": false
     }
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Doubts/LimitsOfPrayingForDisbelievers.md",
+    "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
+    "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
+    "Doubts/HowDidScholarsExplainedThatLegIsToBeWashed.md",
+    "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
+    "Doubts/DoAshaabAnythingWrongAfterProphetDied.md",
+    "Quran.md",
+    "Doubts/DidIbrahimPrayedTheSame.md",
+    "Doubts/LevelsOfBelievers.md",
+    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
+    "Doubts/EvidenceForDoingConnected.md",
+    "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
+    "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
+    "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
+    "Adaab.md",
+    "CoursePDFsAndImages/Adkaar010.pdf",
+    "Adkaar.md",
     "CoursePDFsAndImages/Adkaar010_DuaForms1.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms4.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms3.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms2.png",
-    "Adkaar.md",
     "Lugah.md",
     "HadeethHifd.md",
     "Fiqh.md",
     "CoursePDFs",
-    "Adaab.md",
-    "Doubts/DidIbrahimPrayedTheSame.md",
-    "Quran.md",
-    "Doubts/LimitsOfPrayingForDisbelievers.md",
     "Doubts/PrayingForBlessingForKuffar.md",
     "CoursePDFsAndImages/Adaab010.pdf",
     "CoursePDFsAndImages/Quran012.pdf",
@@ -244,19 +241,8 @@
     "CoursePDFsAndImages/HadeethHifd012.pdf",
     "CoursePDFsAndImages/HadeethHifd011.pdf",
     "CoursePDFsAndImages/Fiqh012.pdf",
-    "CoursePDFsAndImages/Fiqh011.pdf",
-    "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
-    "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
-    "Doubts/HowDidScholarsExplainedThatLegIsToBeWashed.md",
     "Aqeeda.md",
     "AnNaseeha.md",
-    "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
-    "Doubts/DoAshaabAnythingWrongAfterProphetDied.md",
-    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
-    "Doubts/EvidenceForDoingConnected.md",
-    "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
-    "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
-    "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
     "Doubts/MeaningOfHelpedByTerror.md",
     "Doubts/IsMentalismSihr.md",
     "Doubts/AngelsForMonitoringFetus.md",

@@ -1,6 +1,6 @@
 Title: HowDidScholarsGotTheIbrahimWasNaked
 Date: Friday, 26-Jun-2026 | 05:50:34 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #Hadeeth/DayOfJudgement/Naked/FirstClothForIbrahim 
 Enquired to: #Usthad/NiyafBinKhalid 
 

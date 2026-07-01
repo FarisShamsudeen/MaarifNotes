@@ -1,6 +1,6 @@
 Title: EvidenceForKeepingOrderForWuduIsMust
 Date: Tuesday, 16-Jun-2026 | 06:40:09 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired
 Tags: #
 Enquired to: #Usthad/NiyafBinKhalid 
 

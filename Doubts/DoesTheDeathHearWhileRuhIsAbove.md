@@ -1,6 +1,6 @@
 Title: DoesTheDeathHearWhileRuhIsAbove
 Date: Tuesday, 16-Jun-2026 | 02:50:35 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired 
 Tags: #Hadeeth/LifeAfterDeath 
 Enquired to: #Usthad/NiyafBinKhalid 
 

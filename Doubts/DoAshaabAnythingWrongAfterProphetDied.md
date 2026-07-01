@@ -1,6 +1,6 @@
 Title: DoAshaabAnythingWrongAfterProphetDied
 Date: Friday, 26-Jun-2026 | 05:39:41 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired
 Tags: #Hadeeth/Sahaabah 
 Enquired to: #Usthad/NiyafBinKhalid 
 

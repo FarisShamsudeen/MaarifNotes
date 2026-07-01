@@ -1,7 +1,7 @@
 Title: LimitsOfPrayingForDisbelievers
 Date: Saturday, 27-Jun-2026 | 10:44:30 AM
-Status: #Doubt/NotEnquired
-Tags: #
+Status: #Doubt/Enquired
+Tags: #Hadeeth/Dua/Disbelievers
 Enquired to: #Usthad/NiyafBinKhalid 
 
 ****

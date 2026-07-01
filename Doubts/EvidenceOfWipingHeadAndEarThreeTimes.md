@@ -1,6 +1,6 @@
 Title: EvidenceOfWipingHeadAndEarThreeTimes
 Date: Tuesday, 16-Jun-2026 | 06:21:53 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired  
 Tags: #Hadeeth/Fiqh/Wudu/WipingHeadAndEar/OneTime 
 Enquired to: #Usthad/NiyafBinKhalid 
 

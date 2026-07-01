@@ -1,6 +1,6 @@
 Title: WhyDidUmarSeekForgiveForAbuBakkr
 Date: Wednesday, 17-Jun-2026 | 12:17:05 PM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired
 Tags: #Hadeeth/GoodDeeds/ControllingTongue/AbuBakrPullingTongue 
 Enquired to: #Usthad/NiyafBinKhalid 
 
