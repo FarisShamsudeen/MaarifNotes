@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adaab.md",
+                "file": "Aqeeda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adaab"
+              "title": "Aqeeda"
             }
           }
         ]
@@ -121,13 +121,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adaab.md",
+                "file": "Aqeeda.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adaab"
+              "title": "Outline of Aqeeda"
             }
           },
           {
@@ -183,10 +183,10 @@
             "state": {
               "type": "file-properties",
               "state": {
-                "file": "Adaab.md"
+                "file": "Aqeeda.md"
               },
               "icon": "lucide-info",
-              "title": "File properties for Adaab"
+              "title": "File properties for Aqeeda"
             }
           }
         ]
@@ -198,6 +198,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "webpage-html-export:Export as HTML": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -207,13 +208,24 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Quran.md",
+    "CoursePDFsAndImages/Quran013.pdf",
+    "CoursePDFsAndImages/Lugah010.pdf",
+    "CoursePDFsAndImages/HadeethHifd013.pdf",
+    "CoursePDFsAndImages/Fiqh013.pdf",
+    "CoursePDFsAndImages/Aqeeda013.pdf",
+    "CoursePDFsAndImages/Adkaar013.pdf",
+    "CoursePDFsAndImages/Adaab013.pdf",
+    "CoursePDFsAndImages/Lugah 10.pdf",
+    "CoursePDFsAndImages/Quran 13.pdf",
+    "CoursePDFsAndImages/Unconfirmed 835510.crdownload",
+    "Adaab.md",
     "Doubts/LimitsOfPrayingForDisbelievers.md",
     "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
     "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
     "Doubts/HowDidScholarsExplainedThatLegIsToBeWashed.md",
     "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
     "Doubts/DoAshaabAnythingWrongAfterProphetDied.md",
-    "Quran.md",
     "Doubts/DidIbrahimPrayedTheSame.md",
     "Doubts/LevelsOfBelievers.md",
     "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
@@ -221,8 +233,6 @@
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
-    "Adaab.md",
-    "CoursePDFsAndImages/Adkaar010.pdf",
     "Adkaar.md",
     "CoursePDFsAndImages/Adkaar010_DuaForms1.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms4.png",
@@ -231,22 +241,12 @@
     "Lugah.md",
     "HadeethHifd.md",
     "Fiqh.md",
-    "CoursePDFs",
     "Doubts/PrayingForBlessingForKuffar.md",
-    "CoursePDFsAndImages/Adaab010.pdf",
-    "CoursePDFsAndImages/Quran012.pdf",
-    "CoursePDFsAndImages/Quran011.pdf",
-    "CoursePDFsAndImages/Lugah009.pdf",
-    "CoursePDFsAndImages/Lugah008.pdf",
-    "CoursePDFsAndImages/HadeethHifd012.pdf",
-    "CoursePDFsAndImages/HadeethHifd011.pdf",
-    "CoursePDFsAndImages/Fiqh012.pdf",
     "Aqeeda.md",
     "AnNaseeha.md",
     "Doubts/MeaningOfHelpedByTerror.md",
     "Doubts/IsMentalismSihr.md",
     "Doubts/AngelsForMonitoringFetus.md",
-    "Doubts/WisdomBehindNotShowing.md",
     "CoursePDFsAndImages/Fiqh007_FingerJointsImage.png",
     "Maarif/maarif/site-lib/media/favicon.png",
     "Maarif/maarif/site-lib/media/6155340132a851f6089e.svg",
