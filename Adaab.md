@@ -170,3 +170,11 @@
 [Adaab010](Adaab010.pdf)
 
 ****
+# 14.06.2026
+
+![Adaab011](Adaab011.pdf)
+
+- عَنْ أَبِي أُمَامَةَ، عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏ "‏ **الْحَيَاءُ وَالْعِيُّ شُعْبَتَانِ مِنَ الإِيمَانِ وَالْبَذَاءُ وَالْبَيَانُ شُعْبَتَانِ مِنَ النِّفَاقِ** ‏" #Hadeeth/Etiquette/LessTalkAndShameful #Hadeeth/Etiquette/NotBeingTalkativeAndPedant
+
+****
+
