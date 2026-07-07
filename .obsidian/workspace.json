@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adkaar.md",
+                "file": "Lugah.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adkaar"
+              "title": "Lugah"
             }
           },
           {
@@ -136,13 +136,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Adkaar.md",
+                "file": "Lugah.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of Adkaar"
+              "title": "Outline of Lugah"
             }
           },
           {
@@ -221,8 +221,9 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678e5d4a9381c809",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "HadeethHifd.md",
     "Adkaar.md",
     "Adaab.md",
     "Fiqh.md",
@@ -258,7 +259,6 @@
     "CoursePDFsAndImages/Adkaar010_DuaForms3.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms2.png",
     "Lugah.md",
-    "HadeethHifd.md",
     "Doubts/PrayingForBlessingForKuffar.md",
     "AnNaseeha.md",
     "Doubts/MeaningOfHelpedByTerror.md",
