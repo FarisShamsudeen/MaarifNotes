@@ -81,3 +81,9 @@
 ![HadeethHifd011](HadeethHifd011.pdf)
 
 ****
+# 21.06.2026
+
+![HadeethHifd012](HadeethHifd012.pdf)
+
+****
+
