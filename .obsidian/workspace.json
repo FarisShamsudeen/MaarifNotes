@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Lugah.md",
+                "file": "AnNaseeha.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Lugah"
+              "title": "AnNaseeha"
             }
           }
         ]
@@ -198,7 +198,6 @@
   },
   "left-ribbon": {
     "hiddenItems": {
-      "webpage-html-export:Export as HTML": false,
       "switcher:Open quick switcher": true,
       "graph:Open graph view": false,
       "command-palette:Open command palette": false,
@@ -208,9 +207,20 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "CoursePDFsAndImages/Quran 15-16.pdf",
+    "CoursePDFsAndImages/Unconfirmed 331180.crdownload",
+    "CoursePDFsAndImages/Lugah 12-13.pdf",
+    "CoursePDFsAndImages/Unconfirmed 612736.crdownload",
+    "CoursePDFsAndImages/Aqeeda 15-16.pdf",
+    "CoursePDFsAndImages/Unconfirmed 193041.crdownload",
+    "CoursePDFsAndImages/Hadeeth Hifd 15-16.pdf",
+    "CoursePDFsAndImages/Unconfirmed 410173.crdownload",
+    "CoursePDFsAndImages/Adkaar 15-16.pdf",
+    "CoursePDFsAndImages/Unconfirmed 464925.crdownload",
+    "CoursePDFsAndImages/Fiqh 15-16.pdf",
+    "Lugah.md",
     "Doubts/Letter to sisters.md",
     "Doubts/malayalam letter.md",
-    "Lugah.md",
     "HadeethHifd.md",
     "Adkaar.md",
     "Adaab.md",
@@ -222,16 +232,6 @@
     "Doubts/DidHeSaidOutOfFear.md",
     "Doubts/EvidenceForStartingWipingSocks.md",
     "Doubts/EvidenceForFollowingExcuse.md",
-    "CoursePDFsAndImages/Quran013.pdf",
-    "CoursePDFsAndImages/Lugah010.pdf",
-    "CoursePDFsAndImages/HadeethHifd013.pdf",
-    "CoursePDFsAndImages/Fiqh013.pdf",
-    "CoursePDFsAndImages/Aqeeda013.pdf",
-    "CoursePDFsAndImages/Adkaar013.pdf",
-    "CoursePDFsAndImages/Adaab013.pdf",
-    "CoursePDFsAndImages/Lugah 10.pdf",
-    "CoursePDFsAndImages/Quran 13.pdf",
-    "CoursePDFsAndImages/Unconfirmed 835510.crdownload",
     "Doubts/LimitsOfPrayingForDisbelievers.md",
     "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
     "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
@@ -244,7 +244,6 @@
     "Doubts/EvidenceForDoingConnected.md",
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
-    "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
     "CoursePDFsAndImages/Adkaar010_DuaForms1.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms4.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms3.png",

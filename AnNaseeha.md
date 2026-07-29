@@ -76,3 +76,46 @@ https://youtu.be/A5BzttGI8aA
 *Maarif Class 12* 
 *Part 2* 
 https://youtu.be/nzuelKU8Ifg
+
+*Maarif Class 13* 
+*Part 1* 
+https://youtu.be/wBrRByepb1w
+
+*Maarif Class 13* 
+*Part 2* 
+https://youtu.be/FTZdj54YzI8
+
+
+*Maarif Class 14* 
+*Part 1* 
+https://youtu.be/1oRAjYC-bR4
+
+*Maarif Class 14* 
+*Part 2*
+https://youtu.be/AS3UGTjAK_c
+
+No notes loading
+
+*Maarif Class 15* 
+*Part 1* 
+https://youtu.be/dvlEr3k7OsQ
+
+*Maarif Class 15* 
+*Part 2* 
+https://youtu.be/kCeviwxSCdQ
+
+
+*Maarif Class 16* 
+*Part-1* 
+https://youtu.be/so5Yoj6Dwac
+
+*Part-2* 
+https://youtu.be/e0jA8_wD_ME
+
+*Maarif Class 17* 
+*Part-1* 
+https://youtu.be/_cL3vOsZKeo
+
+*Maarif Class 17* 
+*Part-2* 
+https://youtu.be/3JiaW-TJhok
