@@ -1,12 +1,13 @@
 Title: DoesTheDeathHearWhileRuhIsAbove
 Date: Tuesday, 16-Jun-2026 | 02:50:35 PM
-Status: #Doubt/Enquired 
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/LifeAfterDeath 
-Enquired to: #Usthad/NiyafBinKhalid 
+Enquired to: #Usthad/HamrasBinHaris 
 
 ****
 > [!tldr] Sources of Doubt
 > **اكْتُبُوا كِتَابَ عَبْدِي فِي عِلِّيِّينَ وَأَعِيدُوهُ إِلَى الْأَرْضِ فَإِنِّي مِنْهَا خَلَقْتُهُمْ وَفِيهَا أُعِيدُهُمْ وَمِنْهَا أخرجهم تَارَة أُخْرَى قَالَ: " فتعاد روحه فيأتيه ملكان فَيُجْلِسَانِهِ فَيَقُولُونَ لَهُ: مَنْ رَبُّكَ؟**....
+> 
 > عَنْ أَنَسٍ ـ رضى الله عنه ـ عَنِ النَّبِيِّ صلى الله عليه وسلم قَالَ ‏"‏ **الْعَبْدُ إِذَا وُضِعَ فِي قَبْرِهِ، وَتُوُلِّيَ وَذَهَبَ أَصْحَابُهُ حَتَّى إِنَّهُ لَيَسْمَعُ قَرْعَ نِعَالِهِمْ، أَتَاهُ مَلَكَانِ فَأَقْعَدَاهُ فَيَقُولاَنِ لَهُ**....
 
 ---
@@ -14,8 +15,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 > ഖബറിൽ കിടക്കുന്നവരുടെ റൂഹ് ആകാശത്തിൽ ആയിരിക്കുമ്പോഴാണോ അവർ മറമാടുന്നവരുടെ കാലടി പാദങ്ങൾ കേൾക്കുന്നത് ? അതല്ല റൂഹ് തിരിച്ച് ഖബറിൽ കിടക്കുന്ന ശരീരത്തിലേക്ക് വന്നതിനുശേഷം ആണോ ?
 
 ---
-> [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> [!success] Answered by #Usthad/HamrasBinHaris
+> نعم، بعد أن تصل الأرواح إلى الجسد في القبر
 
 ---
 # Related Doubts

@@ -1,7 +1,7 @@
 Title: EvidenceForKeepingOrderForWuduIsMust
 Date: Tuesday, 16-Jun-2026 | 06:40:09 PM
-Status: #Doubt/Enquired
-Tags: #
+Status: #Doubt/Enquired/Cleared 
+Tags: #Hadeeth/Fiqh/Wudu/Order
 Enquired to: #Usthad/NiyafBinKhalid 
 
 ****
@@ -14,7 +14,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> نستنبط الحكم من الآيات وأحاديث نبوية محددة؛ فقد كان النبي (صلى الله عليه وسلم) يبدأ بما بدأ الله به.
+> - ....ثُمَّ خَرَجَ مِنَ الْبَابِ إِلَى الصَّفَا فَلَمَّا دَنَا مِنَ الصَّفَا قَرَأَ ‏‏{‏ ==إِنَّ الصَّفَا وَالْمَرْوَةَ مِنْ شَعَائِرِ اللَّهِ==‏}‏ ‏"‏ **أَبْدَأُ بِمَا بَدَأَ اللَّهُ بِهِ** ‏"‏ ‏.‏ فَبَدَأَ بِالصَّفَا.....
 
 ---
 # Related Doubts

@@ -1,8 +1,8 @@
 Title: HowDidScholarsExplainedThatLegIsToBeWashed
 Date: Friday, 26-Jun-2026 | 06:28:15 PM
-Status: #Doubt/Enquired
-Tags: #
-Enquired to: #Usthad/NiyafBinKhalid 
+Status: #Doubt/Enquired/Cleared 
+Tags: #Hadeeth/Fiqh/Wudu 
+Enquired to: #Usthad/HamrasBinHaris 
 
 ****
 > [!tldr] Sources of Doubt
@@ -14,8 +14,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 > ഇതേ നിയമം ഉള്ള വേറെ ഖുർആനിലെ ഉദാഹരണം പറഞ്ഞുതരാമോ?
 
 ---
-> [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> [!success] Answered by #Usthad/HamrasBinHaris 
+> استنبطنا الحكم من الأحاديث النبوية والنحو العربي.
 
 ---
 # Related Doubts

@@ -13,13 +13,27 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
+                "file": "Fiqh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib"
+              "title": "Fiqh"
+            }
+          },
+          {
+            "id": "fc07d63b48349ca3",
+            "type": "leaf",
+            "state": {
+              "type": "webviewer",
+              "state": {
+                "url": "https://www.youtube.com/watch?v=FTZdj54YzI8&t=1169s",
+                "title": "(543) Maarif Class 13 | Part - 2 - YouTube",
+                "mode": "webview"
+              },
+              "icon": "globe-2",
+              "title": "(543) Maarif Class 13 | Part - 2 - YouTube"
             }
           }
         ]
@@ -54,8 +68,8 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Doubt/Enquired",
-                "matchingCase": false,
+                "query": "tag:#Doubt/NotEnquired",
+                "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
                 "extraContext": false,
@@ -121,13 +135,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
+                "file": "Fiqh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib"
+              "title": "Outline of Fiqh"
             }
           },
           {
@@ -136,7 +150,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Adaab.md",
+                "file": "Fiqh.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -146,7 +160,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Adaab"
+              "title": "Backlinks for Fiqh"
             }
           },
           {
@@ -155,12 +169,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Adaab.md",
+                "file": "Fiqh.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Adaab"
+              "title": "Outgoing links from Fiqh"
             }
           },
           {
@@ -189,7 +203,8 @@
               "title": "File properties for Aqeeda"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -208,9 +223,25 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "Fiqh.md",
+    "Doubts/DidHeSaidOutOfFear.md",
+    "Doubts/EvidenceForFollowingExcuse.md",
+    "Doubts/EvidenceForStartingWipingSocks.md",
+    "Quran.md",
+    "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
+    "Doubts/IsMentalismSihr.md",
+    "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
+    "Doubts/EvidenceForDoingConnected.md",
+    "Doubts/EvidenceOfYaqeenPrinciple.md",
+    "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
+    "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
+    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
+    "Doubts/DoAshaabAnythingWrongAfterProphetDied.md",
+    "Aqeeda.md",
+    "Doubts/HowDidScholarsExplainedThatLegIsToBeWashed.md",
+    "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
     "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
     "Doubts/LimitsOfPrayingForDisbelievers.md",
-    "Fiqh.md",
     "CoursePDFsAndImages/Lugah012&013.pdf",
     "CoursePDFsAndImages/Adaab015&016.pdf",
     "CoursePDFsAndImages/Fiqh015&016.pdf",
@@ -220,8 +251,6 @@
     "CoursePDFsAndImages/Quran015&016.pdf",
     "Lugah.md",
     "AnNaseeha.md",
-    "Aqeeda.md",
-    "Quran.md",
     "CoursePDFsAndImages/Quran 15-16.pdf",
     "CoursePDFsAndImages/Unconfirmed 331180.crdownload",
     "CoursePDFsAndImages/Lugah 12-13.pdf",
@@ -231,19 +260,6 @@
     "Adkaar.md",
     "Adaab.md",
     "CoursePDFsAndImages/Quran012_PosOfGreatNamesOfAllah.png",
-    "Doubts/DidHeSaidOutOfFear.md",
-    "Doubts/EvidenceForStartingWipingSocks.md",
-    "Doubts/EvidenceForFollowingExcuse.md",
-    "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
-    "Doubts/HowDidScholarsExplainedThatLegIsToBeWashed.md",
-    "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
-    "Doubts/DoAshaabAnythingWrongAfterProphetDied.md",
-    "Doubts/DidIbrahimPrayedTheSame.md",
-    "Doubts/LevelsOfBelievers.md",
-    "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
-    "Doubts/EvidenceForDoingConnected.md",
-    "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
-    "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "CoursePDFsAndImages/Adkaar010_DuaForms1.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms4.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms3.png",

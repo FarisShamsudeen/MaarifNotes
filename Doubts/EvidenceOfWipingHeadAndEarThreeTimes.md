@@ -1,8 +1,8 @@
 Title: EvidenceOfWipingHeadAndEarThreeTimes
 Date: Tuesday, 16-Jun-2026 | 06:21:53 PM
-Status: #Doubt/Enquired  
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Fiqh/Wudu/WipingHeadAndEar/OneTime 
-Enquired to: #Usthad/NiyafBinKhalid 
+Enquired to: #Usthad/HamrasBinHaris 
 
 ****
 > [!tldr] Sources of Doubt
@@ -13,8 +13,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 > മൂന്ന് തവണ തല തടവുന്നത്  തെളിവായിട്ട് അവർ പറയാറുള്ളത് എന്താണ്? അതിനു  ഉത്തരമായി പണ്ഡിതന്മാർ എന്താണ് പറഞ്ഞിട്ടുള്ളത്.
 
 ---
-> [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> [!success] Answered by #Usthad/HamrasBinHaris 
+> وردت أحاديث ضعيفة بخصوص هذا الموضوع.
 
 ---
 # Related Doubts

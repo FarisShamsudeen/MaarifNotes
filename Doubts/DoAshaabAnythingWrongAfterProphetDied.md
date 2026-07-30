@@ -1,8 +1,8 @@
 Title: DoAshaabAnythingWrongAfterProphetDied
 Date: Friday, 26-Jun-2026 | 05:39:41 PM
-Status: #Doubt/Enquired
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Sahaabah 
-Enquired to: #Usthad/NiyafBinKhalid 
+Enquired to: #Usthad/HamrasBinHaris 
 
 ****
 > [!tldr] Sources of Doubt
@@ -13,8 +13,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 > നബി ﷺ യുടെ കാലശേഷം സഹാബാക്കൾ ദീനിനെതിരായി ചെയ്യും എന്നാണോ ഇതിൽ ഉദ്ദേശിച്ചത്? അതോ അബൂബക്കർ رَضِيَ اللّٰهُ عَنْهُ സക്കാത്ത് നൽകാത്തതിന്റെ പേരിൽ യുദ്ധം ചെയ്ത منافق കളെ പെറ്റിയിട്ടാണോ ?
 
 ---
-> [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> [!success] Answered by #Usthad/HamrasBinHaris 
+> نعم
 
 ---
 # Related Doubts

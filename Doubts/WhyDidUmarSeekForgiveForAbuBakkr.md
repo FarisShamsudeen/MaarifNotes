@@ -1,8 +1,8 @@
 Title: WhyDidUmarSeekForgiveForAbuBakkr
 Date: Wednesday, 17-Jun-2026 | 12:17:05 PM
-Status: #Doubt/Enquired
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/GoodDeeds/ControllingTongue/AbuBakrPullingTongue 
-Enquired to: #Usthad/NiyafBinKhalid 
+Enquired to: #Usthad/HamrasBinHaris 
 
 ****
 > [!tldr] Sources of Doubt
@@ -13,8 +13,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 > എന്തുകൊണ്ടാണ് ഉമർ رَضِيَ اللّٰهُ عَنْهُ അബൂബക്കർ رَضِيَ اللّٰهُ عَنْهُ ന് വേണ്ടി പ്രാർത്ഥിച്ചത്?
 
 ---
-> [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> [!success] Answered by #Usthad/HamrasBinHaris 
+> يعلم عمر أن أبا بكر قد يكون يفعل ذلك لأن لسانه فعل شيئاً غير لائق.
 
 ---
 # Related Doubts
