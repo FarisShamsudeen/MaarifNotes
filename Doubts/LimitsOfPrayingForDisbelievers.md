@@ -17,7 +17,7 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> 
 
 ---
 # Related Doubts

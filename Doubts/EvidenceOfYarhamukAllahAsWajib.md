@@ -1,8 +1,8 @@
 Title: EvidenceOfYarhamukAllahAsWajib
 Date: Saturday, 27-Jun-2026 | 07:24:42 AM
-Status: #Doubt/Enquired
+Status: #Doubt/Enquired/Cleared 
 Tags: #Hadeeth/Etiquette/Sneezing 
-Enquired to: #Usthad/NiyafBinKhalid 
+Enquired to: #Usthad/HamrasBinHaris 
 
 ****
 > [!tldr] Sources of Doubt
@@ -14,7 +14,8 @@ Enquired to: #Usthad/NiyafBinKhalid
 
 ---
 > [!success] Answered by #Usthad/NiyafBinKhalid 
-> Final clarified answer here.
+> هناك حديث آخر يذكر أنه واجب.
+> - عَنْ أَبِي هُرَيْرَةَ، أَنَّ رَسُولَ اللَّهِ صلى الله عليه وسلم قَالَ ‏"‏ **حَقُّ الْمُسْلِمِ عَلَى الْمُسْلِمِ سِتٌّ** ‏"‏ ‏.‏ قِيلَ مَا هُنَّ يَا رَسُولَ اللَّهِ قَالَ ‏"‏ **إِذَا لَقِيتَهُ فَسَلِّمْ عَلَيْهِ وَإِذَا دَعَاكَ فَأَجِبْهُ وَإِذَا اسْتَنْصَحَكَ فَانْصَحْ لَهُ ~~وَإِذَا عَطَسَ فَحَمِدَ اللَّهَ فَسَمِّتْهُ~~ وَإِذَا مَرِضَ فَعُدْهُ وَإِذَا مَاتَ فَاتَّبِعْهُ** ‏"
 
 ---
 # Related Doubts
