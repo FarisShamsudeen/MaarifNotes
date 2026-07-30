@@ -97,3 +97,8 @@
 
 ![Lugah009](Lugah009.pdf)
 
+****
+
+# 28.06.2026
+
+![Lugah010](Lugah010.pdf)
