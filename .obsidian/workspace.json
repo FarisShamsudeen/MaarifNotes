@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HadeethHifd.md",
+                "file": "Aqeeda.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HadeethHifd"
+              "title": "Aqeeda"
             }
           }
         ]
@@ -42,7 +42,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -105,7 +107,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 298.5
+    "width": 201.28262329101562
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -209,8 +211,20 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "Lugah.md",
     "Quran.md",
+    "CoursePDFsAndImages/Aqeeda014.pdf",
+    "CoursePDFsAndImages/Unconfirmed 34766.crdownload",
+    "CoursePDFsAndImages/Lugah011.pdf",
+    "CoursePDFsAndImages/Unconfirmed 137110.crdownload",
+    "CoursePDFsAndImages/Adkaar014.pdf",
+    "CoursePDFsAndImages/Unconfirmed 599377.crdownload",
+    "CoursePDFsAndImages/Fiqh014.pdf",
+    "CoursePDFsAndImages/Unconfirmed 451392.crdownload",
+    "CoursePDFsAndImages/HadeethHifd014.pdf",
+    "CoursePDFsAndImages/Unconfirmed 99248.crdownload",
+    "AnNaseeha.md",
+    "HadeethHifd.md",
+    "Lugah.md",
     "Adkaar.md",
     "Adaab.md",
     "Fiqh.md",
@@ -231,20 +245,7 @@
     "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
     "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
     "Doubts/LimitsOfPrayingForDisbelievers.md",
-    "CoursePDFsAndImages/Lugah012&013.pdf",
-    "CoursePDFsAndImages/Adaab015&016.pdf",
-    "CoursePDFsAndImages/Fiqh015&016.pdf",
-    "CoursePDFsAndImages/Adkaar015&016.pdf",
-    "CoursePDFsAndImages/HadeethHifd015&016.pdf",
-    "CoursePDFsAndImages/Aqeeda015&016.pdf",
-    "CoursePDFsAndImages/Quran015&016.pdf",
-    "AnNaseeha.md",
-    "CoursePDFsAndImages/Quran 15-16.pdf",
-    "CoursePDFsAndImages/Unconfirmed 331180.crdownload",
-    "CoursePDFsAndImages/Lugah 12-13.pdf",
     "Doubts/Letter to sisters.md",
-    "Doubts/malayalam letter.md",
-    "HadeethHifd.md",
     "CoursePDFsAndImages/Quran012_PosOfGreatNamesOfAllah.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms1.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms4.png",
