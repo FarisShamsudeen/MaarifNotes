@@ -94,7 +94,6 @@ https://youtu.be/1oRAjYC-bR4
 *Part 2*
 https://youtu.be/AS3UGTjAK_c
 
-No notes loading
 
 *Maarif Class 15* 
 *Part 1* 
