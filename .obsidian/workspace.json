@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Adaab.md",
+                "file": "HadeethHifd.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Adaab"
+              "title": "HadeethHifd"
             }
           }
         ]
@@ -129,7 +129,7 @@
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of HadeethHifd"
+              "title": "Outline"
             }
           },
           {
@@ -148,7 +148,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for HadeethHifd"
+              "title": "Backlinks"
             }
           },
           {
@@ -191,13 +191,11 @@
               "title": "File properties for Aqeeda"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,8 +209,11 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "Fiqh.md",
+    "Lugah.md",
+    "Adkaar.md",
     "AnNaseeha.md",
+    "Adaab.md",
+    "Fiqh.md",
     "Aqeeda.md",
     "Quran.md",
     "CoursePDFsAndImages/Aqeeda014.pdf",
@@ -226,9 +227,6 @@
     "CoursePDFsAndImages/HadeethHifd014.pdf",
     "CoursePDFsAndImages/Unconfirmed 99248.crdownload",
     "HadeethHifd.md",
-    "Lugah.md",
-    "Adkaar.md",
-    "Adaab.md",
     "Doubts/DidHeSaidOutOfFear.md",
     "Doubts/EvidenceForFollowingExcuse.md",
     "Doubts/EvidenceForStartingWipingSocks.md",

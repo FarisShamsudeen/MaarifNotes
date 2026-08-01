@@ -250,3 +250,8 @@
 ![Adkaar013](Adkaar013.pdf)
 
 ****
+# 05.07.2026
+
+![Adkaar014](Adkaar014.pdf)
+
+****
