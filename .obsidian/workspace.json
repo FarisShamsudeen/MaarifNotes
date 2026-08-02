@@ -13,13 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "HadeethHifd.md",
+                "file": "Quran.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "HadeethHifd"
+              "title": "Quran"
             }
           }
         ]
@@ -97,7 +97,10 @@
             "type": "leaf",
             "state": {
               "type": "bookmarks",
-              "state": {},
+              "state": {
+                "showSearch": false,
+                "searchQuery": ""
+              },
               "icon": "lucide-bookmark",
               "title": "Bookmarks"
             }
@@ -123,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "HadeethHifd.md",
+                "file": "Quran.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -138,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "HadeethHifd.md",
+                "file": "Quran.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -209,13 +212,15 @@
   },
   "active": "e6eee55c2b017714",
   "lastOpenFiles": [
+    "AnNaseeha.md",
+    "Quran.md",
+    "HadeethHifd.md",
+    "Templates/DoubtTemplate.md",
     "Lugah.md",
     "Adkaar.md",
-    "AnNaseeha.md",
     "Adaab.md",
     "Fiqh.md",
     "Aqeeda.md",
-    "Quran.md",
     "CoursePDFsAndImages/Aqeeda014.pdf",
     "CoursePDFsAndImages/Unconfirmed 34766.crdownload",
     "CoursePDFsAndImages/Lugah011.pdf",
@@ -226,7 +231,6 @@
     "CoursePDFsAndImages/Unconfirmed 451392.crdownload",
     "CoursePDFsAndImages/HadeethHifd014.pdf",
     "CoursePDFsAndImages/Unconfirmed 99248.crdownload",
-    "HadeethHifd.md",
     "Doubts/DidHeSaidOutOfFear.md",
     "Doubts/EvidenceForFollowingExcuse.md",
     "Doubts/EvidenceForStartingWipingSocks.md",
