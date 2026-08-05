@@ -13,28 +13,13 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Quran.md",
+                "file": "Fiqh.md",
                 "mode": "source",
                 "source": false,
                 "backlinks": false
               },
               "icon": "lucide-file",
-              "title": "Quran"
-            }
-          },
-          {
-            "id": "39c4332379d9471f",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Doubts/CanWeUseAbrogatedVersesAsEvidencesInAnyways.md",
-                "mode": "source",
-                "source": false,
-                "backlinks": false
-              },
-              "icon": "lucide-file",
-              "title": "CanWeUseAbrogatedVersesAsEvidencesInAnyways"
+              "title": "Fiqh"
             }
           }
         ]
@@ -71,7 +56,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Doubt/NotEnquired",
+                "query": "",
                 "matchingCase": true,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -125,7 +110,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 201.28262329101562
+    "width": 301.93316650390625
   },
   "right": {
     "id": "fa76877e325e2191",
@@ -141,7 +126,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Quran.md",
+                "file": "Fiqh.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
@@ -156,7 +141,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Quran.md",
+                "file": "Doubts/WhatIsTheFlowTypeOfTheRiversInJannah.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -213,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -226,18 +210,27 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "678e5d4a9381c809",
+  "active": "e6eee55c2b017714",
   "lastOpenFiles": [
-    "Doubts/CanWeUseAbrogatedVersesAsEvidencesInAnyways.md",
-    "Quran.md",
     "AnNaseeha.md",
+    "Aqeeda.md",
+    "Doubts/WhatIsTheFlowTypeOfTheRiversInJannah.md",
+    "Quran.md",
+    "Doubts/WhatIsTheConnectionBetweenHelpingAndThisHadeeth.md",
+    "Doubts/If.md",
+    "Doubts/CanWeUseAbrogatedVersesAsEvidencesInAnyways.md",
     "HadeethHifd.md",
+    "Doubts/AngelsForMonitoringFetus.md",
+    "Doubts/DidHeSaidOutOfFear.md",
+    "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
+    "Doubts/EvidenceForStartingWipingSocks.md",
+    "Doubts/EvidenceForFollowingExcuse.md",
+    "Doubts/EvidenceForExchangingGiftsWithKuffar.md",
+    "Fiqh.md",
     "Templates/DoubtTemplate.md",
     "Lugah.md",
     "Adkaar.md",
     "Adaab.md",
-    "Fiqh.md",
-    "Aqeeda.md",
     "CoursePDFsAndImages/Aqeeda014.pdf",
     "CoursePDFsAndImages/Unconfirmed 34766.crdownload",
     "CoursePDFsAndImages/Lugah011.pdf",
@@ -248,10 +241,6 @@
     "CoursePDFsAndImages/Unconfirmed 451392.crdownload",
     "CoursePDFsAndImages/HadeethHifd014.pdf",
     "CoursePDFsAndImages/Unconfirmed 99248.crdownload",
-    "Doubts/DidHeSaidOutOfFear.md",
-    "Doubts/EvidenceForFollowingExcuse.md",
-    "Doubts/EvidenceForStartingWipingSocks.md",
-    "Doubts/HowDidScholarsGotTheIbrahimWasNaked.md",
     "Doubts/IsMentalismSihr.md",
     "Doubts/DoesTheDeathHearWhileRuhIsAbove.md",
     "Doubts/EvidenceForDoingConnected.md",
@@ -259,11 +248,6 @@
     "Doubts/EvidenceOfWipingHeadAndEarThreeTimes.md",
     "Doubts/EvidenceForKeepingOrderForWuduIsMust.md",
     "Doubts/WhyDidUmarSeekForgiveForAbuBakkr.md",
-    "Doubts/DoAshaabAnythingWrongAfterProphetDied.md",
-    "Doubts/HowDidScholarsExplainedThatLegIsToBeWashed.md",
-    "Doubts/WhyDoSomeScholarsSaidItIsWajibAndHowDoWeUnderstandItIsNotWajib.md",
-    "Doubts/EvidenceOfYarhamukAllahAsWajib.md",
-    "Doubts/LimitsOfPrayingForDisbelievers.md",
     "CoursePDFsAndImages/Quran012_PosOfGreatNamesOfAllah.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms1.png",
     "CoursePDFsAndImages/Adkaar010_DuaForms4.png",
