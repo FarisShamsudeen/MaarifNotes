@@ -198,8 +198,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 278.5,
-    "collapsed": true
+    "width": 278.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -211,7 +210,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e6eee55c2b017714",
+  "active": "678e5d4a9381c809",
   "lastOpenFiles": [
     "Fiqh.md",
     "Doubts/EvidenceForNotStayingInTheMasjidInTheStateOfJanabah.md",
