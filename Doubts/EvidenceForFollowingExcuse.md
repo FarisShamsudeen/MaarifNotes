@@ -1,6 +1,6 @@
 Title: EvidenceForFollowingExcuse
 Date: Tuesday, 07-Jul-2026 | 10:11:34 AM
-Status: #Doubt/NotEnquired
+Status: #Doubt/Enquired
 Tags: #
 Enquired to: #Usthad/NiyafBinKhalid 
 
